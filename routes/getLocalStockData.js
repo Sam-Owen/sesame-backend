@@ -8,6 +8,7 @@ var express = require('express'),
     para = {};
 
 
+
 router.get('/', function (req, res, next) {
     //允许跨域访问
     res.setHeader('Access-Control-Allow-Origin', 'http://localhost:8080');
@@ -17,9 +18,10 @@ router.get('/', function (req, res, next) {
         "type": req.query.type
     };
     var type = !!para.type ? "-" + para.type : "",
-        fileName = '../public/javascripts/data/' + para.symbol + type + '.json';
+        fileName = 'public/javascripts/data/' + para.symbol + type + '.json';
     readLocalData(fileName).then(getRemoteData).then(function (data) {
         res.send(data);
+        console.log(fileName);
         saveData(data, fileName);
     });
 });
