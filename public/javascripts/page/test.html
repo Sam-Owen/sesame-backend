@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+    <title>ECharts</title>
+
+    <script src="../lib/echarts.js"></script>
+    <script src="../lib/jquery-3.2.1.min.js"></script>
+    <script src="../lib/vue.js"></script>
+    <script src="../lib/bootstrap3.3.5/js/bootstrap.min.js"></script>
+    <script src="../lib/require2.3.3.js"></script>
+
+    <script src="../struts/constant.js"></script>
+    <script src="../struts/util.js"></script>
+    <script src="../index/kdj.js"></script>
+    <script src="../index/macd.js"></script>
+    <script src="../index/ma.js"></script>
+
+    <link href="../lib/bootstrap3.3.5/css/bootstrap.css" rel="stylesheet">
+    <link href="../lib/bootstrap3.3.5/css/bootstrap-theme.css" rel="stylesheet">
+</head>
+<body>
+<!-- 为ECharts准备一个具备大小（宽高）的Dom -->
+<!-- ECharts单文件引入 -->
+
+<div id="app">
+    <table class="table">
+        <!-- On cells (`td` or `th`) -->
+        <tr>
+            <td class="active">编号</td>
+            <td class="active">编码</td>
+            <td class="active">名称</td>
+            <td class="success">最近买点</td>
+            <td class="success">最大涨幅</td>
+            <td class="warning">最大跌幅</td>
+            <td class="success">平均最大涨幅</td>
+            <td class="warning">平均最大跌幅</td>
+
+        </tr>
+        <tr v-for="(s,i) in stock">
+            <td class="active">{{ i+1 }}</td>
+            <td class="active">{{ s.code }}</td>
+            <td class="active">{{ s.name }}</td>
+            <td class="active">{{ s.nearly }}</td>
+            <td class="warning">{{ s.max }}</td>
+            <td class="warning">{{ s.min }}</td>
+        </tr>
+    </table>
+</div>
+
+
+<script type="text/javascript">
+
+    function init(data) {
+        var head = [], jsonArr = data;
+
+        $.each(jsonArr[0], function (k, v) {
+            head.push(k);
+        });
+
+
+        for (var i = 0, l = jsonArr.length; i < l; i++) {
+            var e = jsonArr[i];
+            e.pre = jsonArr[i - 1] || {};
+            e.pre.next = e;
+
+            // 转为数值
+            e[constant.BASE_ATTR_OPEN] = +e[constant.BASE_ATTR_OPEN];
+            e[constant.BASE_ATTR_CLOSE] = +e[constant.BASE_ATTR_CLOSE];
+            e[constant.BASE_ATTR_HIGH] = +e[constant.BASE_ATTR_HIGH];
+            e[constant.BASE_ATTR_LOW] = +e[constant.BASE_ATTR_LOW];
+
+            // 错误数据处理，缺失数据用前一天的收盘数据代替，表示无波动
+            if (!e[constant.BASE_ATTR_OPEN]) {
+                e[constant.BASE_ATTR_OPEN] = e.pre[constant.BASE_ATTR_CLOSE];
+            }
+            if (!e[constant.BASE_ATTR_HIGH]) {
+                e[constant.BASE_ATTR_HIGH] = e.pre[constant.BASE_ATTR_CLOSE];
+            }
+            if (!e[constant.BASE_ATTR_LOW]) {
+                e[constant.BASE_ATTR_LOW] = e.pre[constant.BASE_ATTR_CLOSE];
+            }
+            if (!e[constant.BASE_ATTR_CLOSE]) {
+                e[constant.BASE_ATTR_CLOSE] = e.pre[constant.BASE_ATTR_CLOSE];
+            }
+
+            if (head.indexOf(constant.KDJ_D) === -1) {
+                kdj.init(jsonArr[i]);
+            }
+            if (head.indexOf(constant.MA + 5) === -1) {
+                ma.init(jsonArr[i]);
+            }
+        }
+        if (head.indexOf(constant.MACD_BAR) === -1) {
+            macd.init(jsonArr);
+        }
+    }
+    $.when($.ajax({url: "../data/sz-stock.json"}),
+        $.ajax({url: "../data/sh-stock.json"}),
+        $.ajax({url: "../data/location-futures.json"}),
+        $.ajax({url: "../data/global-futures.json"})
+    ).then(function (sz, sh, lf, gf) {
+        console.log(sz);
+        //return sz[0].concat(sh[0]).concat(lf[0]).concat(gf[0]);
+        return sz[0].concat(sh[0]);
+    }).done(function (data) {
+        var list = [];
+        for (var i = 0; i < data.length; i++) {
+            if (data[i].code.match(/^3/)) {
+                list.push(data[i]);
+                fx(data[i]).done(function () {
+                    app.stock = list;
+                });
+            }
+        }
+        /**
+         var goContinue = false;
+         for (var i = 0; i < data.length; i++) {
+            var e = data[i];
+
+            var symbol = e.location + e.code;
+
+            if (symbol === "sh600220") {
+                goContinue = true;
+            }
+
+            if (goContinue) {
+                $.ajax({url: "/getLocalStockData?symbol=" + symbol + "&type=after", async: true}).done(function (r) {
+                    console.log(symbol + "-after");
+                });
+
+                $.ajax({url: "/getLocalStockData?symbol=" + symbol + "&type=before", async: true}).done(function (r) {
+                    console.log(symbol + "-before");
+                });
+
+                $.ajax({url: "/getLocalStockData?symbol=" + symbol, async: true}).done(function (r) {
+                    console.log(symbol);
+                });
+            }
+        }
+         **/
+
+    }).fail(function (err) {
+        console.log(err);
+    });
+
+    /**
+     $.when($.ajax({url: "../data/sz-stock.json"}),
+     $.ajax({url: "../data/sh-stock.json"})).done(function (sz, sh) {
+        console.log(sz[0]);
+        console.log(sh[0]);
+        app.stock = [{
+            code: "NID",
+            buy: "1",
+            sell: "2"
+        }, {
+            code: "NID",
+            buy: "1",
+            sell: "2"
+        }];
+    }).then($.ajax({url: "/getLocalStockData?code=sz000001"})).done(function(){
+
+    });
+     **/
+
+    function fx(object) {
+        return $.ajax({url: "/getLocalStockData?symbol=" + object.location + object.code + "&type=after"}).done(function (r) {
+            init(r);
+            var maHalfYear = constant.MA + 250;
+
+            var allBuy = [];
+            for (var i = 0, l = r.length; i < l; i++) {
+                var e = r[i];
+                // e.time = new Date(e.time).toLocaleDateString();
+                if (e[constant.BASE_ATTR_CLOSE] >= e[maHalfYear]
+                    && e.pre[constant.BASE_ATTR_CLOSE] < e.pre[maHalfYear] /*突破年线*/
+                    && e[maHalfYear] <= e.pre[maHalfYear] /*年线还处于下行趋势*/
+                    && e[constant.MA + 500] <= e.pre[constant.MA + 500] /*2年线还处于下行趋势*/
+                    && e[maHalfYear] >= e[constant.MA + 5]
+                    && e[maHalfYear] >= e[constant.MA + 10]
+                    && e[maHalfYear] >= e[constant.MA + 20]
+                    && e[maHalfYear] >= e[constant.MA + 60]
+                    && e[maHalfYear] >= e[constant.MA + 120] /*年线压制其它均线*/) {
+
+
+                    var allAmp = [0];
+                    for (var j = 1; j <= 250; j++) {
+                        var nextN = util.getDayByDay(e, j);
+                        allAmp.push(+util.getAmp(e, nextN));
+                        object.nearly = e.time;
+                        //console.log("后续" + j + "天涨幅为：" + util.getAmp(e, nextN) + "%");
+                    }
+
+                    allBuy.push(allAmp);
+
+                    //console.log(e.time);//当前对象
+                    //console.log(nextN.time);//后续N天对象
+                }
+            }
+
+            var max = [];
+            var min = [];
+
+            for (var m = 0; m < allBuy.length; m++) {
+                var amp = allBuy[m];
+                for (var k = 0; k < amp.length; k++) {
+                    a = amp[k];
+                }
+                max.push(amp.sort(function sortNumber(a, b) {
+                    return a - b
+                }).slice(-1)[0]);
+                min.push(amp[0]);
+                //console.log(amp);
+            }
+
+            object.max = max.sort(function sortNumber(a, b) {
+                return a - b
+            }).slice(-1)[0];
+            object.min = min.sort(function sortNumber(a, b) {
+                return a - b
+            })[0];
+
+            var sum = 0;
+            for (var ii = 0; i < max.length; ii++) {
+                sum += max[ii];
+            }
+            //console.log(max);
+            //console.log(min);
+        });
+    }
+
+    var app = new Vue({
+        el: '#app',
+        data: {
+            stock: []
+        }
+    })
+</script>
+</body>
