@@ -1,3 +1,4 @@
 node_modules/
 *.log
 public/javascripts/data
+.idea/

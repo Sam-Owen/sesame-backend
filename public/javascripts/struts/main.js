@@ -8,7 +8,7 @@ var main = (new function () {
         //sina接跨域方式
         //XPT,NID,CAD
 
-        return $.ajax({url: "/getLocalStockData?symbol=sz300473&type=after"}).done(function (r) {
+        return $.ajax({url: "/getLocalData?symbol=sz000001&type=after"}).done(function (r) {
             /**
             var xml = $(r);
             var nodes = xml.find("content");
