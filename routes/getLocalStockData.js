@@ -1,18 +1,17 @@
-var express = require('express'),
+let express = require('express'),
     router = express.Router(),
     https = require('https'),
     fs = require('fs'),
     q = require('q'),
     path = require('path'),
     querystring = require('querystring'),
-    constant = require("../public/javascripts/struts/constant.js"),
-    para = {};
+    constant = require("../public/javascripts/struts/constant.js");
 
 const dayTimes = 86400000;
 
 /**
  *  req.query:
- * "symbol": 代码
+ * "symbol":
  * "period": 周期
  * "type": 复权
  * "update": 是否更新数据
@@ -21,15 +20,19 @@ router.get('/', function (req, res, next) {
     //允许跨域访问
     res.setHeader('Access-Control-Allow-Origin', 'http://localhost:8080');
 
-    para = req.query;
+    let para = req.query; //不能用这个，nodejs是单线程的，会窜数据
     para.period = para.period || "1day";
 
-    var typeStr = !!para.type ? "-" + para.type : "",
-        fileName = '../public/javascripts/data/' + para.symbol + typeStr + '.json';
+    let typeStr = !!para.type ? "-" + para.type : "",
+        fileName = path.resolve(__dirname, '../public/javascripts/data/' + para.symbol + typeStr + '.json');
 
-    if (!!para.update && para.update.toString() === "true"){
-        readLocalData(path.resolve(__dirname, fileName)).then(getRemoteData).then(function (data) {
+    if (!!para.update && para.update.toString() === "true") {
+        readLocalData(fileName).then(function (localData) {
+            return getRemoteData(localData, para);
+        }).then(function (data) {
             res.send(data);
+            console.log(fileName);
+            console.log("=================================================================");
             saveData(data, fileName);
         });
     } else {
@@ -40,27 +43,27 @@ router.get('/', function (req, res, next) {
 });
 
 function readLocalData(fileName) {
-    var defer = q.defer();
+    let defer = q.defer();
     fs.readFile(fileName, function (err, data) {
         if (!err) {
             defer.resolve(JSON.parse(data.toString()));
             console.log("Local Data");
         } else {
             //defer.reject(err);
-            console.error(err);
+            console.error('Have no local data:' + fileName);
             defer.resolve([]);
         }
     });
     return defer.promise;
 }
 
-function getRemoteData(localData) {
-    var result = "";
-    var def = q.defer();
-    var lastDate = localData.length > 0
+function getRemoteData(localData, para) {
+    let result = "";
+    let def = q.defer();
+    let lastDate = localData.length > 0
         ? localData.slice(-1)[0][constant.BASE_ATTR_DATE]
         : toLocaleDateString(0);//"1970-1-1"
-    var options = {
+    let options = {
         host: "xueqiu.com",
         path: "/stock/forchartk/stocklist.json?",
         method: "get",
@@ -106,12 +109,12 @@ function getRemoteData(localData) {
                     return;
                 }
 
-                for (var i = 0; i < result.length; i++) {
-                    var e = result[i];
+                for (let i = 0; i < result.length; i++) {
+                    let e = result[i];
                     e[constant.BASE_ATTR_DATE] = toLocaleDateString(e[constant.BASE_ATTR_DATE]);
                 }
                 def.resolve(localData.concat(result));
-                console.log("Remote Data");
+                console.log("Remote Data:" + options.host + options.path);
             });
         }).end();
         //req.write(para); // xhr.send(). 感觉跟这个差不多
@@ -129,7 +132,7 @@ function saveData(data, fileName) {
 }
 
 function toLocaleDateString(dateValue) {
-    var date = dateValue !== undefined ? new Date(dateValue) : new Date();
+    let date = dateValue !== undefined ? new Date(dateValue) : new Date();
     return date.toLocaleDateString().replace(/\//mg, "-");
 }
 
