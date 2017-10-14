@@ -6,10 +6,8 @@ var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 
 var index = require('./routes/index');
-var users = require('./routes/users');
-var gData = require('./routes/getGlobalData');
-var lData = require('./routes/getLocalData');
-var lsData = require('./routes/getLocalStockData');
+var ls = require('./routes/getLocalStockData');
+var lf = require('./routes/getLocalFuturesData');
 
 var app = express();
 
@@ -26,10 +24,8 @@ app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/', index);
-app.use('/users', users);
-app.use('/getGlobalData', gData);
-app.use('/getLocalData', lData);
-app.use('/getLocalStockData', lsData);
+app.use('/getLocalStockData', ls);
+app.use('/getLocalFuturesData', lf);
 
 // catch 404 and forward to error handler
 app.use(function (req, res, next) {

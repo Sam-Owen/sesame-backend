@@ -2,15 +2,16 @@ var express = require('express');
 var router = express.Router();
 var http = require('http');
 var fs = require('fs');
+var path = require('path');
 
 router.get('/', function (req, res, next) {
-    //get 请求外网
-    var code = req.query.code,
+    //允许跨域访问
+    res.setHeader('Access-Control-Allow-Origin', 'http://localhost:8080');
+
+    var symbol = `${req.query.symbol}0`,
         start = req.query.start || "19000101",
         end = req.query.end,
-        url = "http://biz.finance.sina.com.cn/stock/flash_hq/kline_data.php"
-            + "?symbol=" + code + "&begin_date=" + start
-            + (!!end ? "&end_date=" + end : "");
+        url = `http://stock2.finance.sina.com.cn/futures/api/json.php/IndexService.getInnerFuturesDailyKLine?symbol=${symbol}`;
     http.get(url, function (request) {
         var bytes = '';
         request.on('data', function (data) {
@@ -19,8 +20,11 @@ router.get('/', function (req, res, next) {
         request.on('end', function () {
             res.send(bytes);
             //写入文件
-            fs.writeFile('../public/javascripts/data/L-' + code + '.txt', bytes, function (err) {
-                if (err) throw err;
+            let fileName = path.resolve(__dirname, `../public/javascripts/data/lf-${symbol}.json`);
+            fs.writeFile(fileName, bytes, function (err) {
+                if (err) {
+                    console.error(err);
+                }
             });
         });
     });
