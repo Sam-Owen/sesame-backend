@@ -4,6 +4,9 @@ var http = require('http');
 var fs = require('fs');
 var path = require('path');
 
+var MongoClient = require('mongodb').MongoClient;
+var DB_CONN_STR = 'mongodb://localhost:27017/runoob'; // 数据库为 runoob
+
 router.get('/', function (req, res, next) {
     //允许跨域访问
     res.setHeader('Access-Control-Allow-Origin', 'http://localhost:8080');

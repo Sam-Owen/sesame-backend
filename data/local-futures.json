@@ -1,0 +1,462 @@
+[
+  {
+    "name": "沪深300股指IF",
+    "unit": "乘数300",
+    "multiplier": "300",
+    "minvarPoint": "0.2指数点",
+    "minvar": "60",
+    "bond": "96306",
+    "exchange": "中金所",
+    "code": "IF"
+  },
+  {
+    "name": "中证500股指IC",
+    "unit": "乘数200",
+    "multiplier": "200",
+    "minvarPoint": "0.2指数点",
+    "minvar": "40",
+    "bond": "118596",
+    "exchange": "中金所",
+    "code": "IC"
+  },
+  {
+    "name": "上证50股指IH",
+    "unit": "乘数300",
+    "multiplier": "300",
+    "minvarPoint": "0.2指数点",
+    "minvar": "60",
+    "bond": "72000",
+    "exchange": "中金所",
+    "code": "IH"
+  },
+  {
+    "name": "国债TF",
+    "unit": "乘数10000",
+    "multiplier": "10000",
+    "minvarPoint": "0.002",
+    "minvar": "20",
+    "bond": "30000",
+    "exchange": "中金所",
+    "code": "TF"
+  },
+  {
+    "name": "橡胶RU",
+    "unit": "10吨/手",
+    "multiplier": "10",
+    "minvarPoint": "5元/吨",
+    "minvar": "50",
+    "bond": "11920",
+    "exchange": "上海期货交易所",
+    "code": "RU"
+  },
+  {
+    "name": "沪铜CU",
+    "unit": "5吨/手",
+    "multiplier": "5",
+    "minvarPoint": "10元/吨",
+    "minvar": "50",
+    "bond": "19155",
+    "exchange": "上海期货交易所",
+    "code": "CU"
+  },
+  {
+    "name": "白银AG",
+    "unit": "15千克/手",
+    "multiplier": "15",
+    "minvarPoint": "1元/千克",
+    "minvar": "15",
+    "bond": "5223",
+    "exchange": "上海期货交易所",
+    "code": "AG"
+  },
+  {
+    "name": "黄金AU",
+    "unit": "1000克/手",
+    "multiplier": "1000",
+    "minvarPoint": "0.05元/克",
+    "minvar": "50",
+    "bond": "26025",
+    "exchange": "上海期货交易所",
+    "code": "AU"
+  },
+  {
+    "name": "螺纹RB",
+    "unit": "10吨/手",
+    "multiplier": "10",
+    "minvarPoint": "1元/吨",
+    "minvar": "10",
+    "bond": "2165",
+    "exchange": "上海期货交易所",
+    "code": "RB"
+  },
+  {
+    "name": "沥青BU",
+    "unit": "10吨/手",
+    "multiplier": "10",
+    "minvarPoint": "2元/吨",
+    "minvar": "20",
+    "bond": "1912",
+    "exchange": "上海期货交易所",
+    "code": "BU"
+  },
+  {
+    "name": "沪铝AL",
+    "unit": "5吨/手",
+    "multiplier": "5",
+    "minvarPoint": "5元/吨",
+    "minvar": "25",
+    "bond": "5760",
+    "exchange": "上海期货交易所",
+    "code": "AL"
+  },
+  {
+    "name": "沪锌ZN",
+    "unit": "5吨/手",
+    "multiplier": "5",
+    "minvarPoint": "5元/吨",
+    "minvar": "25",
+    "bond": "7230",
+    "exchange": "上海期货交易所",
+    "code": "ZN"
+  },
+  {
+    "name": "沪铅PB",
+    "unit": "5吨/手",
+    "multiplier": "5",
+    "minvarPoint": "5元/吨",
+    "minvar": "25",
+    "bond": "6830",
+    "exchange": "上海期货交易所",
+    "code": "PB"
+  },
+  {
+    "name": "燃料油FU",
+    "unit": "50吨/手",
+    "multiplier": "50",
+    "minvarPoint": "1元/吨",
+    "minvar": "50",
+    "bond": "10955",
+    "exchange": "上海期货交易所",
+    "code": "FU"
+  },
+  {
+    "name": "热轧卷板HC",
+    "unit": "10吨/手",
+    "multiplier": "10",
+    "minvarPoint": "2元/吨",
+    "minvar": "20",
+    "bond": "2375",
+    "exchange": "上海期货交易所",
+    "code": "HC"
+  },
+  {
+    "name": "线材WR",
+    "unit": "10吨/手",
+    "multiplier": "10",
+    "minvarPoint": "1元/吨",
+    "minvar": "10",
+    "bond": "2016",
+    "exchange": "上海期货交易所",
+    "code": "WR"
+  },
+  {
+    "name": "焦炭J",
+    "unit": "100吨/手",
+    "multiplier": "100",
+    "minvarPoint": "1元/吨",
+    "minvar": "100",
+    "bond": "7650",
+    "exchange": "大连商品交易所",
+    "code": "J"
+  },
+  {
+    "name": "焦煤JM",
+    "unit": "60吨/手",
+    "multiplier": "60",
+    "minvarPoint": "1元/吨",
+    "minvar": "60",
+    "bond": "3762",
+    "exchange": "大连商品交易所",
+    "code": "JM"
+  },
+  {
+    "name": "PVC",
+    "unit": "5吨/手",
+    "multiplier": "5",
+    "minvarPoint": "5元/吨",
+    "minvar": "25",
+    "bond": "2745",
+    "exchange": "大连商品交易所",
+    "code": "V"
+  },
+  {
+    "name": "棕榈P",
+    "unit": "10吨/手",
+    "multiplier": "10",
+    "minvarPoint": "2元/吨",
+    "minvar": "20",
+    "bond": "5410",
+    "exchange": "大连商品交易所",
+    "code": "P"
+  },
+  {
+    "name": "豆油Y",
+    "unit": "10吨/手",
+    "multiplier": "10",
+    "minvarPoint": "2元/吨",
+    "minvar": "20",
+    "bond": "6062",
+    "exchange": "大连商品交易所",
+    "code": "Y"
+  },
+  {
+    "name": "玉米C",
+    "unit": "10吨/手",
+    "multiplier": "10",
+    "minvarPoint": "1元/吨",
+    "minvar": "10",
+    "bond": "1518",
+    "exchange": "大连商品交易所",
+    "code": "C"
+  },
+  {
+    "name": "胶板BB",
+    "unit": "500张/手",
+    "multiplier": "500",
+    "minvarPoint": "0.05元/张",
+    "minvar": "25",
+    "bond": "4055",
+    "exchange": "大连商品交易所",
+    "code": "BB"
+  },
+  {
+    "name": "纤板FB",
+    "unit": "500张/手",
+    "multiplier": "500",
+    "minvarPoint": "0.05元/张",
+    "minvar": "25",
+    "bond": "2752",
+    "exchange": "大连商品交易所",
+    "code": "FB"
+  },
+  {
+    "name": "铁矿石I",
+    "unit": "100吨/手",
+    "multiplier": "100",
+    "minvarPoint": "0.5元/吨",
+    "minvar": "50",
+    "bond": "4260",
+    "exchange": "大连商品交易所",
+    "code": "I"
+  },
+  {
+    "name": "鸡蛋JD",
+    "unit": "5吨/手",
+    "multiplier": "10",
+    "minvarPoint": "1元/500千克",
+    "minvar": "10",
+    "bond": "3196",
+    "exchange": "大连商品交易所",
+    "code": "JD"
+  },
+  {
+    "name": "大豆一A",
+    "unit": "10吨/手",
+    "multiplier": "10",
+    "minvarPoint": "1元/吨",
+    "minvar": "10",
+    "bond": "3453",
+    "exchange": "大连商品交易所",
+    "code": "A"
+  },
+  {
+    "name": "大豆二B",
+    "unit": "10吨/手",
+    "multiplier": "10",
+    "minvarPoint": "1元/吨",
+    "minvar": "10",
+    "bond": "3100",
+    "exchange": "大连商品交易所",
+    "code": "B"
+  },
+  {
+    "name": "豆粕M",
+    "unit": "10吨/手",
+    "multiplier": "10",
+    "minvarPoint": "1元/吨",
+    "minvar": "10",
+    "bond": "2344",
+    "exchange": "大连商品交易所",
+    "code": "M"
+  },
+  {
+    "name": "乙烯L",
+    "unit": "5吨/手",
+    "multiplier": "5",
+    "minvarPoint": "5元/吨",
+    "minvar": "25",
+    "bond": "4765",
+    "exchange": "大连商品交易所",
+    "code": "L"
+  },
+  {
+    "name": "丙烯PP",
+    "unit": "5吨/手",
+    "multiplier": "5",
+    "minvarPoint": "1元/吨",
+    "minvar": "5",
+    "bond": "3698",
+    "exchange": "大连商品交易所",
+    "code": "PP"
+  },
+  {
+    "name": "强麦WH",
+    "unit": "20吨/手",
+    "multiplier": "20",
+    "minvarPoint": "1元/吨",
+    "minvar": "20",
+    "bond": "5680",
+    "exchange": "郑州商品交易所",
+    "code": "WH"
+  },
+  {
+    "name": "普麦PM",
+    "unit": "50吨/手",
+    "multiplier": "50",
+    "minvarPoint": "1元/吨",
+    "minvar": "50",
+    "bond": "12455",
+    "exchange": "郑州商品交易所",
+    "code": "PM"
+  },
+  {
+    "name": "白糖SR",
+    "unit": "10吨/手",
+    "multiplier": "10",
+    "minvarPoint": "1元/吨",
+    "minvar": "10",
+    "bond": "5595",
+    "exchange": "郑州商品交易所",
+    "code": "SR"
+  },
+  {
+    "name": "PTA",
+    "unit": "5吨/手",
+    "multiplier": "5",
+    "minvarPoint": "2元/吨",
+    "minvar": "10",
+    "bond": "2358",
+    "exchange": "郑州商品交易所",
+    "code": "TA"
+  },
+  {
+    "name": "菜籽油OI",
+    "unit": "10吨/手",
+    "multiplier": "10",
+    "minvarPoint": "2元/吨",
+    "minvar": "20",
+    "bond": "5980",
+    "exchange": "郑州商品交易所",
+    "code": "OI"
+  },
+  {
+    "name": "早籼稻RI",
+    "unit": "20吨/手",
+    "multiplier": "20",
+    "minvarPoint": "1元/吨",
+    "minvar": "20",
+    "bond": "5008",
+    "exchange": "郑州商品交易所",
+    "code": "RI"
+  },
+  {
+    "name": "甲醇MA",
+    "unit": "10吨/手",
+    "multiplier": "10",
+    "minvarPoint": "1元/吨",
+    "minvar": "10",
+    "bond": "2068",
+    "exchange": "郑州商品交易所",
+    "code": "MA"
+  },
+  {
+    "name": "玻璃FG",
+    "unit": "20吨/手",
+    "multiplier": "20",
+    "minvarPoint": "1元/吨",
+    "minvar": "20",
+    "bond": "1880",
+    "exchange": "郑州商品交易所",
+    "code": "FG"
+  },
+  {
+    "name": "油菜籽RS",
+    "unit": "10吨/手",
+    "multiplier": "10",
+    "minvarPoint": "1元/吨",
+    "minvar": "10",
+    "bond": "3923",
+    "exchange": "郑州商品交易所",
+    "code": "RS"
+  },
+  {
+    "name": "菜籽粕RM",
+    "unit": "10吨/手",
+    "multiplier": "10",
+    "minvarPoint": "1元/吨",
+    "minvar": "10",
+    "bond": "1950",
+    "exchange": "郑州商品交易所",
+    "code": "RM"
+  },
+  {
+    "name": "动力煤TC",
+    "unit": "100吨/手",
+    "multiplier": "100",
+    "minvarPoint": "0.2元/吨",
+    "minvar": "20",
+    "bond": "3518",
+    "exchange": "郑州商品交易所",
+    "code": "TC"
+  },
+  {
+    "name": "粳稻JR",
+    "unit": "20吨/手",
+    "multiplier": "20",
+    "minvarPoint": "1元/吨",
+    "minvar": "20",
+    "bond": "5308",
+    "exchange": "郑州商品交易所",
+    "code": "JR"
+  },
+  {
+    "name": "棉花CF",
+    "unit": "5吨/手",
+    "multiplier": "5",
+    "minvarPoint": "5元/吨",
+    "minvar": "25",
+    "bond": "5280",
+    "exchange": "郑州商品交易所",
+    "code": "CF"
+  },
+  {
+    "name": "硅铁SF",
+    "unit": "5吨/手",
+    "multiplier": "5",
+    "minvarPoint": "2元/吨",
+    "minvar": "10",
+    "bond": "2374",
+    "exchange": "郑州商品交易所",
+    "code": "SF"
+  },
+  {
+    "name": "锰硅SM",
+    "unit": "5吨/手",
+    "multiplier": "5",
+    "minvarPoint": "2元/吨",
+    "minvar": "10",
+    "bond": "2685",
+    "exchange": "郑州商品交易所",
+    "code": "SM"
+  }
+]

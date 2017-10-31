@@ -1,62 +1,19 @@
 let express = require('express'),
-    router = express.Router(),
     https = require('https'),
     fs = require('fs'),
     q = require('q'),
-    path = require('path'),
     querystring = require('querystring'),
-    constant = require("../public/javascripts/struts/constant.js");
+    constant = require("../js/common/constant.js");
 
 const dayTimes = 86400000;
 
-/**
- *  req.query:
- * "symbol":
- * "period": 周期
- * "type": 复权
- * "update": 是否更新数据
- */
-router.get('/', function (req, res, next) {
-    //允许跨域访问
-    res.setHeader('Access-Control-Allow-Origin', 'http://localhost:8080');
-    //不能直接使用para公共变量，nodejs是单线程的，会窜数据。只能作为参数传递形成闭包
-    let para = req.query,
-        fileName;
-    para.period = para.period || "1day";
-    para.type = para.type || "after";
-    fileName = path.resolve(__dirname, `../public/javascripts/data/${para.symbol}-${para.type}.json`);
+function getRemoteData(localData, opt) {
+    localData = localData || []
+    para = Object.create(null)
+    para.period = opt.period || "1day";
+    para.type = opt.type || "after";
+    para.symbol = opt.symbol;
 
-    console.log("=================================================================");
-    if (!!para.update && para.update.toString() === "true") {
-        readLocalData(fileName).then(function (localData) {
-            return getRemoteData(localData, para);
-        }).then(function (data) {
-            res.send(data);
-            saveData(data, fileName);
-        });
-    } else {
-        readLocalData(path.resolve(__dirname, fileName)).then(function (data) {
-            res.send(data);
-        });
-    }
-});
-
-function readLocalData(fileName) {
-    let defer = q.defer();
-    fs.readFile(fileName, function (err, data) {
-        if (!err) {
-            defer.resolve(JSON.parse(data.toString()));
-            console.log("Get local Data:" + fileName);
-        } else {
-            //defer.reject(err);
-            console.error('Have no local data:' + fileName);
-            defer.resolve([]);
-        }
-    });
-    return defer.promise;
-}
-
-function getRemoteData(localData, para) {
     let result = "";
     let def = q.defer();
     let lastDate = localData.length > 0 ?
@@ -75,12 +32,25 @@ function getRemoteData(localData, para) {
             "Accept-Encoding": "utf-8",
             "Accept-Language": "en-US,en;q=0.8,zh-CN;q=0.6,zh;q=0.4,ja;q=0.2",
             //在雪球页执行document.cookie 重要的是四个session类型的token需手动更新
-            "Cookie": "device_id=6d7ad2e2018e25d020bbe65a33721b8e; webp=0; u=821508082540060; Hm_lvt_1db88642e346389874251b5a1eded6e3=1507563731,1507569524,1508082540,1508082545; Hm_lpvt_1db88642e346389874251b5a1eded6e3=1508082545;xq_r_token.sig=J6CRpJiOVJCLsdVRN6tCvexELgw;xq_a_token=e3cae829e5836e234be00887406080b41c2cb69a;xq_r_token=319673aba44e00bd0fed3702652be32b2349860e;",
-            'Referer': 'https://www.baidu.com/link?url=CQu5rGbzI_vt0fSj3b12LTyZgWvzjrK9f3L_GLIBqum&wd=&eqid=88e8a3ca0001535b00000005572edf29',
+            "Cookie": `
+                device_id=6d7ad2e2018e25d020bbe65a33721b8e; 
+                webp=0; 
+                u=821508082540060; 
+                Hm_lvt_1db88642e346389874251b5a1eded6e3=1507563731,1507569524,1508082540,1508082545; 
+                Hm_lpvt_1db88642e346389874251b5a1eded6e3=1508082545;
+                xq_r_token=819ae94ba56378cc0665670983c2afafc34c275b;
+                xq_r_token.sig=6N6ZkaHvfEfPz1FgHKEsoQ_rhaA;
+                xq_a_token=469ea9edce5537d5d8297aaffcd3474cc8d12273;
+                xq_a_token.sig=8D0Nrw6wLkoY9wJS5_6N_eORSOY;
+                Hm_lpvt_1db88642e346389874251b5a1eded6e3=1509472165;
+                `.replace(/[\s]*/ig, ""),
+            'Referer': 'https://www.baidu.com,/link?url=CQu5rGbzI_vt0fSj3b12LTyZgWvzjrK9f3L_GLIBqum&wd=&eqid=88e8a3ca0001535b00000005572edf29',
             'Cache-Control': 'max-age=0'
         }
     };
-    if (lastDate === toLocaleDateString()) {
+    //本地数据的最后一天和系统时间的前一天对比。一样说明数据是最新的，不需要更新。
+    //因为取远端end参数使用的是当天前一天，是不会去查询当天数据的。所以比较也需要用前一天。
+    if (lastDate === toLocaleDateString(new Date() - dayTimes)) {
         console.log('Local data is fresh.');
         def.resolve(localData);
     } else {
@@ -122,18 +92,13 @@ function getRemoteData(localData, para) {
     return def.promise;
 }
 
-function saveData(data, fileName) {
-    //写入文件
-    fs.writeFile(fileName, JSON.stringify(data), function (err) {
-        if (err) {
-            console.error(err);
-        }
-    });
-}
-
+/** 
+ * toLocaleDateString(0);  1970-1-1 
+ * toLocaleDateString();  当天 
+*/
 function toLocaleDateString(dateValue) {
     let date = dateValue !== undefined ? new Date(dateValue) : new Date();
     return date.toLocaleDateString().replace(/\//mg, "-");
 }
 
-module.exports = router;
+module.exports = getRemoteData;

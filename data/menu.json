@@ -1,0 +1,84 @@
+[
+  {
+    "label": "自选股",
+    "router": "",
+    "children": [
+      {
+        "label": "深圳交易所",
+        "router": "/widget/stockList"
+      },
+      {
+        "label": "上海交易所",
+        "router": "/widget/stockList"
+      }
+    ]
+  },
+  {
+    "label": "上交所",
+    "router": "",
+    "children": [
+      {
+        "label": "上海主板（6XXXXX）",
+        "router": "/widget/stockList?exchange=sh6"
+      }
+    ]
+  },
+  {
+    "label": "深交所",
+    "router": "",
+    "children": [
+      {
+        "label": "深圳主板（000XXX）",
+        "router": "/widget/stockList?exchange=sz00"
+      },
+      {
+        "label": "中小板（002XXX）",
+        "router": "/widget/stockList?exchange=sz002"
+      },
+      {
+        "label": "创业板（300XXX）",
+        "router": "/widget/stockList?exchange=sz300"
+      }
+    ]
+  },
+  {
+    "label": "期货",
+    "router": "",
+    "children": [
+      {
+        "label": "大商所",
+        "router": "/widget/stockList"
+      },
+      {
+        "label": "郑商所",
+        "router": "/widget/stockList"
+      },
+      {
+        "label": "创业板（300XXX）",
+        "router": "/widget/stockList"
+      }
+    ]
+  },
+  {
+    "label": "功能菜单",
+    "router": "",
+    "children": [
+      {
+        "label": "列表",
+        "router": "/widget/stockList"
+      },
+      {
+        "label": "K线",
+        "router": "/widget/kLine"
+      },
+      {
+        "label": "详情",
+        "router": "/widget/analysisList"
+      },
+      {
+        "label": "复盘",
+        "router": "/widget/replayList"
+      }
+    ]
+  }
+]

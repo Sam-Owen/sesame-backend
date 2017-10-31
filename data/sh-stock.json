@@ -1,0 +1,8147 @@
+[
+  {
+    "code": "166105",
+    "name": "信达增利",
+    "exchange": "sh"
+  },
+  {
+    "code": "201000",
+    "name": "R003",
+    "exchange": "sh"
+  },
+  {
+    "code": "201001",
+    "name": "R007",
+    "exchange": "sh"
+  },
+  {
+    "code": "201002",
+    "name": "R014",
+    "exchange": "sh"
+  },
+  {
+    "code": "201003",
+    "name": "R028",
+    "exchange": "sh"
+  },
+  {
+    "code": "201004",
+    "name": "R091",
+    "exchange": "sh"
+  },
+  {
+    "code": "201005",
+    "name": "R182",
+    "exchange": "sh"
+  },
+  {
+    "code": "201008",
+    "name": "R001",
+    "exchange": "sh"
+  },
+  {
+    "code": "201009",
+    "name": "R002",
+    "exchange": "sh"
+  },
+  {
+    "code": "201010",
+    "name": "R004",
+    "exchange": "sh"
+  },
+  {
+    "code": "202001",
+    "name": "RC001",
+    "exchange": "sh"
+  },
+  {
+    "code": "202003",
+    "name": "RC003",
+    "exchange": "sh"
+  },
+  {
+    "code": "202007",
+    "name": "RC007",
+    "exchange": "sh"
+  },
+  {
+    "code": "203007",
+    "name": "0501R007",
+    "exchange": "sh"
+  },
+  {
+    "code": "203008",
+    "name": "0501R028",
+    "exchange": "sh"
+  },
+  {
+    "code": "203009",
+    "name": "0501R091",
+    "exchange": "sh"
+  },
+  {
+    "code": "203016",
+    "name": "0504R007",
+    "exchange": "sh"
+  },
+  {
+    "code": "203017",
+    "name": "0504R028",
+    "exchange": "sh"
+  },
+  {
+    "code": "203018",
+    "name": "0504R091",
+    "exchange": "sh"
+  },
+  {
+    "code": "203019",
+    "name": "0505R007",
+    "exchange": "sh"
+  },
+  {
+    "code": "203020",
+    "name": "0505R028",
+    "exchange": "sh"
+  },
+  {
+    "code": "203021",
+    "name": "0505R091",
+    "exchange": "sh"
+  },
+  {
+    "code": "203031",
+    "name": "0509R007",
+    "exchange": "sh"
+  },
+  {
+    "code": "203032",
+    "name": "0509R028",
+    "exchange": "sh"
+  },
+  {
+    "code": "203033",
+    "name": "0509R091",
+    "exchange": "sh"
+  },
+  {
+    "code": "203040",
+    "name": "0512R007",
+    "exchange": "sh"
+  },
+  {
+    "code": "203041",
+    "name": "0512R028",
+    "exchange": "sh"
+  },
+  {
+    "code": "203042",
+    "name": "0512R091",
+    "exchange": "sh"
+  },
+  {
+    "code": "203043",
+    "name": "0513R007",
+    "exchange": "sh"
+  },
+  {
+    "code": "203044",
+    "name": "0513R028",
+    "exchange": "sh"
+  },
+  {
+    "code": "203045",
+    "name": "0513R091",
+    "exchange": "sh"
+  },
+  {
+    "code": "203049",
+    "name": "0601R007",
+    "exchange": "sh"
+  },
+  {
+    "code": "203050",
+    "name": "0601R028",
+    "exchange": "sh"
+  },
+  {
+    "code": "203051",
+    "name": "0601R091",
+    "exchange": "sh"
+  },
+  {
+    "code": "203052",
+    "name": "0603R007",
+    "exchange": "sh"
+  },
+  {
+    "code": "203053",
+    "name": "0603R028",
+    "exchange": "sh"
+  },
+  {
+    "code": "203054",
+    "name": "0603R091",
+    "exchange": "sh"
+  },
+  {
+    "code": "204001",
+    "name": "GC001",
+    "exchange": "sh"
+  },
+  {
+    "code": "204002",
+    "name": "GC002",
+    "exchange": "sh"
+  },
+  {
+    "code": "204003",
+    "name": "GC003",
+    "exchange": "sh"
+  },
+  {
+    "code": "204004",
+    "name": "GC004",
+    "exchange": "sh"
+  },
+  {
+    "code": "204007",
+    "name": "GC007",
+    "exchange": "sh"
+  },
+  {
+    "code": "204014",
+    "name": "GC014",
+    "exchange": "sh"
+  },
+  {
+    "code": "204028",
+    "name": "GC028",
+    "exchange": "sh"
+  },
+  {
+    "code": "204091",
+    "name": "GC091",
+    "exchange": "sh"
+  },
+  {
+    "code": "204182",
+    "name": "GC182",
+    "exchange": "sh"
+  },
+  {
+    "code": "500001",
+    "name": "基金金泰",
+    "exchange": "sh"
+  },
+  {
+    "code": "500002",
+    "name": "基金泰和",
+    "exchange": "sh"
+  },
+  {
+    "code": "500003",
+    "name": "基金安信",
+    "exchange": "sh"
+  },
+  {
+    "code": "500005",
+    "name": "基金汉盛",
+    "exchange": "sh"
+  },
+  {
+    "code": "500006",
+    "name": "基金裕阳",
+    "exchange": "sh"
+  },
+  {
+    "code": "500007",
+    "name": "基金景阳",
+    "exchange": "sh"
+  },
+  {
+    "code": "500008",
+    "name": "基金兴华",
+    "exchange": "sh"
+  },
+  {
+    "code": "500009",
+    "name": "基金安顺",
+    "exchange": "sh"
+  },
+  {
+    "code": "500011",
+    "name": "基金金鑫",
+    "exchange": "sh"
+  },
+  {
+    "code": "500015",
+    "name": "基金汉兴",
+    "exchange": "sh"
+  },
+  {
+    "code": "500018",
+    "name": "基金兴和",
+    "exchange": "sh"
+  },
+  {
+    "code": "500029",
+    "name": "基金科讯",
+    "exchange": "sh"
+  },
+  {
+    "code": "500038",
+    "name": "基金通乾",
+    "exchange": "sh"
+  },
+  {
+    "code": "500056",
+    "name": "基金科瑞",
+    "exchange": "sh"
+  },
+  {
+    "code": "500058",
+    "name": "基金银丰",
+    "exchange": "sh"
+  },
+  {
+    "code": "501000",
+    "name": "国金鑫新",
+    "exchange": "sh"
+  },
+  {
+    "code": "501001",
+    "name": "财通精选",
+    "exchange": "sh"
+  },
+  {
+    "code": "501002",
+    "name": "能源互联",
+    "exchange": "sh"
+  },
+  {
+    "code": "501005",
+    "name": "精准医疗",
+    "exchange": "sh"
+  },
+  {
+    "code": "501007",
+    "name": "互联医疗",
+    "exchange": "sh"
+  },
+  {
+    "code": "501008",
+    "name": "互联医C",
+    "exchange": "sh"
+  },
+  {
+    "code": "501009",
+    "name": "生物科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "501010",
+    "name": "生物科C",
+    "exchange": "sh"
+  },
+  {
+    "code": "501011",
+    "name": "中药基金",
+    "exchange": "sh"
+  },
+  {
+    "code": "501012",
+    "name": "中药C",
+    "exchange": "sh"
+  },
+  {
+    "code": "501015",
+    "name": "创业板EF",
+    "exchange": "sh"
+  },
+  {
+    "code": "501017",
+    "name": "国泰融丰",
+    "exchange": "sh"
+  },
+  {
+    "code": "501018",
+    "name": "南方原油",
+    "exchange": "sh"
+  },
+  {
+    "code": "501021",
+    "name": "香港中小",
+    "exchange": "sh"
+  },
+  {
+    "code": "501022",
+    "name": "银华鑫盛",
+    "exchange": "sh"
+  },
+  {
+    "code": "501023",
+    "name": "港中小企",
+    "exchange": "sh"
+  },
+  {
+    "code": "501025",
+    "name": "香港银行",
+    "exchange": "sh"
+  },
+  {
+    "code": "501026",
+    "name": "财通福享",
+    "exchange": "sh"
+  },
+  {
+    "code": "501028",
+    "name": "财通福瑞",
+    "exchange": "sh"
+  },
+  {
+    "code": "501029",
+    "name": "红利基金",
+    "exchange": "sh"
+  },
+  {
+    "code": "501030",
+    "name": "环境治理",
+    "exchange": "sh"
+  },
+  {
+    "code": "501031",
+    "name": "环境C",
+    "exchange": "sh"
+  },
+  {
+    "code": "501050",
+    "name": "50AH",
+    "exchange": "sh"
+  },
+  {
+    "code": "501300",
+    "name": "美元债",
+    "exchange": "sh"
+  },
+  {
+    "code": "502000",
+    "name": "500等权",
+    "exchange": "sh"
+  },
+  {
+    "code": "502001",
+    "name": "500等权A",
+    "exchange": "sh"
+  },
+  {
+    "code": "502002",
+    "name": "500等权B",
+    "exchange": "sh"
+  },
+  {
+    "code": "502003",
+    "name": "军工分级",
+    "exchange": "sh"
+  },
+  {
+    "code": "502004",
+    "name": "军工A",
+    "exchange": "sh"
+  },
+  {
+    "code": "502005",
+    "name": "军工B",
+    "exchange": "sh"
+  },
+  {
+    "code": "502006",
+    "name": "国企改革",
+    "exchange": "sh"
+  },
+  {
+    "code": "502007",
+    "name": "国企改A",
+    "exchange": "sh"
+  },
+  {
+    "code": "502008",
+    "name": "国企改B",
+    "exchange": "sh"
+  },
+  {
+    "code": "502010",
+    "name": "证券分级",
+    "exchange": "sh"
+  },
+  {
+    "code": "502011",
+    "name": "证券A",
+    "exchange": "sh"
+  },
+  {
+    "code": "502012",
+    "name": "证券B",
+    "exchange": "sh"
+  },
+  {
+    "code": "502013",
+    "name": "一带一路",
+    "exchange": "sh"
+  },
+  {
+    "code": "502014",
+    "name": "一带一A",
+    "exchange": "sh"
+  },
+  {
+    "code": "502015",
+    "name": "一带一B",
+    "exchange": "sh"
+  },
+  {
+    "code": "502016",
+    "name": "带路分级",
+    "exchange": "sh"
+  },
+  {
+    "code": "502017",
+    "name": "带路A",
+    "exchange": "sh"
+  },
+  {
+    "code": "502018",
+    "name": "带路B",
+    "exchange": "sh"
+  },
+  {
+    "code": "502020",
+    "name": "国金50",
+    "exchange": "sh"
+  },
+  {
+    "code": "502021",
+    "name": "国金50A",
+    "exchange": "sh"
+  },
+  {
+    "code": "502022",
+    "name": "国金50B",
+    "exchange": "sh"
+  },
+  {
+    "code": "502023",
+    "name": "钢铁分级",
+    "exchange": "sh"
+  },
+  {
+    "code": "502024",
+    "name": "钢铁A",
+    "exchange": "sh"
+  },
+  {
+    "code": "502025",
+    "name": "钢铁B",
+    "exchange": "sh"
+  },
+  {
+    "code": "502026",
+    "name": "新丝路",
+    "exchange": "sh"
+  },
+  {
+    "code": "502027",
+    "name": "新丝路A",
+    "exchange": "sh"
+  },
+  {
+    "code": "502028",
+    "name": "新丝路B",
+    "exchange": "sh"
+  },
+  {
+    "code": "502031",
+    "name": "高铁A",
+    "exchange": "sh"
+  },
+  {
+    "code": "502032",
+    "name": "高铁B",
+    "exchange": "sh"
+  },
+  {
+    "code": "502036",
+    "name": "互联金融",
+    "exchange": "sh"
+  },
+  {
+    "code": "502037",
+    "name": "网金A",
+    "exchange": "sh"
+  },
+  {
+    "code": "502038",
+    "name": "网金B",
+    "exchange": "sh"
+  },
+  {
+    "code": "502040",
+    "name": "上50分级",
+    "exchange": "sh"
+  },
+  {
+    "code": "502041",
+    "name": "上50A",
+    "exchange": "sh"
+  },
+  {
+    "code": "502042",
+    "name": "上50B",
+    "exchange": "sh"
+  },
+  {
+    "code": "502048",
+    "name": "50分级",
+    "exchange": "sh"
+  },
+  {
+    "code": "502049",
+    "name": "上证50A",
+    "exchange": "sh"
+  },
+  {
+    "code": "502050",
+    "name": "上证50B",
+    "exchange": "sh"
+  },
+  {
+    "code": "502053",
+    "name": "券商分级",
+    "exchange": "sh"
+  },
+  {
+    "code": "502054",
+    "name": "券商A",
+    "exchange": "sh"
+  },
+  {
+    "code": "502055",
+    "name": "券商B",
+    "exchange": "sh"
+  },
+  {
+    "code": "502056",
+    "name": "医疗分级",
+    "exchange": "sh"
+  },
+  {
+    "code": "502057",
+    "name": "医疗A",
+    "exchange": "sh"
+  },
+  {
+    "code": "502058",
+    "name": "医疗B",
+    "exchange": "sh"
+  },
+  {
+    "code": "505888",
+    "name": "嘉实元和",
+    "exchange": "sh"
+  },
+  {
+    "code": "510010",
+    "name": "治理ETF",
+    "exchange": "sh"
+  },
+  {
+    "code": "510020",
+    "name": "超大ETF",
+    "exchange": "sh"
+  },
+  {
+    "code": "510030",
+    "name": "价值ETF",
+    "exchange": "sh"
+  },
+  {
+    "code": "510050",
+    "name": "50ETF",
+    "exchange": "sh"
+  },
+  {
+    "code": "510060",
+    "name": "央企ETF",
+    "exchange": "sh"
+  },
+  {
+    "code": "510061",
+    "name": "央企申赎",
+    "exchange": "sh"
+  },
+  {
+    "code": "510070",
+    "name": "民企ETF",
+    "exchange": "sh"
+  },
+  {
+    "code": "510090",
+    "name": "责任ETF",
+    "exchange": "sh"
+  },
+  {
+    "code": "510110",
+    "name": "周期ETF",
+    "exchange": "sh"
+  },
+  {
+    "code": "510120",
+    "name": "非周ETF",
+    "exchange": "sh"
+  },
+  {
+    "code": "510130",
+    "name": "中盘ETF",
+    "exchange": "sh"
+  },
+  {
+    "code": "510150",
+    "name": "招商上证消费80",
+    "exchange": "sh"
+  },
+  {
+    "code": "510160",
+    "name": "小康ETF",
+    "exchange": "sh"
+  },
+  {
+    "code": "510170",
+    "name": "商品ETF",
+    "exchange": "sh"
+  },
+  {
+    "code": "510180",
+    "name": "180ETF",
+    "exchange": "sh"
+  },
+  {
+    "code": "510190",
+    "name": "龙头ETF",
+    "exchange": "sh"
+  },
+  {
+    "code": "510210",
+    "name": "综指ETF",
+    "exchange": "sh"
+  },
+  {
+    "code": "510220",
+    "name": "中小ETF",
+    "exchange": "sh"
+  },
+  {
+    "code": "510230",
+    "name": "金融ETF",
+    "exchange": "sh"
+  },
+  {
+    "code": "510260",
+    "name": "新兴ETF",
+    "exchange": "sh"
+  },
+  {
+    "code": "510270",
+    "name": "国企ETF",
+    "exchange": "sh"
+  },
+  {
+    "code": "510280",
+    "name": "成长ETF",
+    "exchange": "sh"
+  },
+  {
+    "code": "510290",
+    "name": "380ETF",
+    "exchange": "sh"
+  },
+  {
+    "code": "510300",
+    "name": "300ETF",
+    "exchange": "sh"
+  },
+  {
+    "code": "510310",
+    "name": "HS300ETF",
+    "exchange": "sh"
+  },
+  {
+    "code": "510330",
+    "name": "华夏300",
+    "exchange": "sh"
+  },
+  {
+    "code": "510360",
+    "name": "广发300",
+    "exchange": "sh"
+  },
+  {
+    "code": "510410",
+    "name": "资源ETF",
+    "exchange": "sh"
+  },
+  {
+    "code": "510420",
+    "name": "180EWETF",
+    "exchange": "sh"
+  },
+  {
+    "code": "510430",
+    "name": "50等权",
+    "exchange": "sh"
+  },
+  {
+    "code": "510440",
+    "name": "500沪市ETF",
+    "exchange": "sh"
+  },
+  {
+    "code": "510450",
+    "name": "180高ETF",
+    "exchange": "sh"
+  },
+  {
+    "code": "510500",
+    "name": "500ETF",
+    "exchange": "sh"
+  },
+  {
+    "code": "510510",
+    "name": "广发500",
+    "exchange": "sh"
+  },
+  {
+    "code": "510520",
+    "name": "诺安500",
+    "exchange": "sh"
+  },
+  {
+    "code": "510560",
+    "name": "国寿500",
+    "exchange": "sh"
+  },
+  {
+    "code": "510580",
+    "name": "ZZ500ETF",
+    "exchange": "sh"
+  },
+  {
+    "code": "510610",
+    "name": "能源行业",
+    "exchange": "sh"
+  },
+  {
+    "code": "510620",
+    "name": "材料行业",
+    "exchange": "sh"
+  },
+  {
+    "code": "510630",
+    "name": "消费行业",
+    "exchange": "sh"
+  },
+  {
+    "code": "510650",
+    "name": "金融行业",
+    "exchange": "sh"
+  },
+  {
+    "code": "510660",
+    "name": "医药行业",
+    "exchange": "sh"
+  },
+  {
+    "code": "510680",
+    "name": "万家380",
+    "exchange": "sh"
+  },
+  {
+    "code": "510700",
+    "name": "百强ETF",
+    "exchange": "sh"
+  },
+  {
+    "code": "510710",
+    "name": "上50ETF",
+    "exchange": "sh"
+  },
+  {
+    "code": "510810",
+    "name": "上海国企",
+    "exchange": "sh"
+  },
+  {
+    "code": "510880",
+    "name": "红利ETF",
+    "exchange": "sh"
+  },
+  {
+    "code": "510900",
+    "name": "H股ETF",
+    "exchange": "sh"
+  },
+  {
+    "code": "511010",
+    "name": "国债ETF",
+    "exchange": "sh"
+  },
+  {
+    "code": "511210",
+    "name": "企债ETF",
+    "exchange": "sh"
+  },
+  {
+    "code": "511220",
+    "name": "城投ETF",
+    "exchange": "sh"
+  },
+  {
+    "code": "511600",
+    "name": "货币ETF",
+    "exchange": "sh"
+  },
+  {
+    "code": "511650",
+    "name": "华夏快线",
+    "exchange": "sh"
+  },
+  {
+    "code": "511660",
+    "name": "建信添益",
+    "exchange": "sh"
+  },
+  {
+    "code": "511680",
+    "name": "安信货币",
+    "exchange": "sh"
+  },
+  {
+    "code": "511690",
+    "name": "交易货币",
+    "exchange": "sh"
+  },
+  {
+    "code": "511700",
+    "name": "场内货币",
+    "exchange": "sh"
+  },
+  {
+    "code": "511760",
+    "name": "德邦货币",
+    "exchange": "sh"
+  },
+  {
+    "code": "511770",
+    "name": "金鹰增益",
+    "exchange": "sh"
+  },
+  {
+    "code": "511800",
+    "name": "易货币",
+    "exchange": "sh"
+  },
+  {
+    "code": "511810",
+    "name": "理财金H",
+    "exchange": "sh"
+  },
+  {
+    "code": "511820",
+    "name": "鹏华添利",
+    "exchange": "sh"
+  },
+  {
+    "code": "511830",
+    "name": "华泰货币",
+    "exchange": "sh"
+  },
+  {
+    "code": "511850",
+    "name": "财富宝E",
+    "exchange": "sh"
+  },
+  {
+    "code": "511860",
+    "name": "博时货币",
+    "exchange": "sh"
+  },
+  {
+    "code": "511880",
+    "name": "银华日利",
+    "exchange": "sh"
+  },
+  {
+    "code": "511890",
+    "name": "景顺货币",
+    "exchange": "sh"
+  },
+  {
+    "code": "511900",
+    "name": "富国货币",
+    "exchange": "sh"
+  },
+  {
+    "code": "511910",
+    "name": "融通货币",
+    "exchange": "sh"
+  },
+  {
+    "code": "511920",
+    "name": "广发货币",
+    "exchange": "sh"
+  },
+  {
+    "code": "511930",
+    "name": "中融日盈",
+    "exchange": "sh"
+  },
+  {
+    "code": "511950",
+    "name": "广发添利",
+    "exchange": "sh"
+  },
+  {
+    "code": "511960",
+    "name": "嘉实快线",
+    "exchange": "sh"
+  },
+  {
+    "code": "511970",
+    "name": "国寿货币",
+    "exchange": "sh"
+  },
+  {
+    "code": "511980",
+    "name": "现金添富",
+    "exchange": "sh"
+  },
+  {
+    "code": "511990",
+    "name": "华宝添益",
+    "exchange": "sh"
+  },
+  {
+    "code": "512000",
+    "name": "券商ETF",
+    "exchange": "sh"
+  },
+  {
+    "code": "512010",
+    "name": "医药ETF",
+    "exchange": "sh"
+  },
+  {
+    "code": "512070",
+    "name": "非银ETF",
+    "exchange": "sh"
+  },
+  {
+    "code": "512100",
+    "name": "1000ETF",
+    "exchange": "sh"
+  },
+  {
+    "code": "512110",
+    "name": "中证地产",
+    "exchange": "sh"
+  },
+  {
+    "code": "512120",
+    "name": "中证医药",
+    "exchange": "sh"
+  },
+  {
+    "code": "512210",
+    "name": "景顺食品",
+    "exchange": "sh"
+  },
+  {
+    "code": "512220",
+    "name": "景顺TMT",
+    "exchange": "sh"
+  },
+  {
+    "code": "512230",
+    "name": "景顺医药",
+    "exchange": "sh"
+  },
+  {
+    "code": "512300",
+    "name": "500医药",
+    "exchange": "sh"
+  },
+  {
+    "code": "512310",
+    "name": "500工业",
+    "exchange": "sh"
+  },
+  {
+    "code": "512330",
+    "name": "500信息",
+    "exchange": "sh"
+  },
+  {
+    "code": "512340",
+    "name": "500原料",
+    "exchange": "sh"
+  },
+  {
+    "code": "512500",
+    "name": "中证500",
+    "exchange": "sh"
+  },
+  {
+    "code": "512510",
+    "name": "ETF500",
+    "exchange": "sh"
+  },
+  {
+    "code": "512580",
+    "name": "环保ETF",
+    "exchange": "sh"
+  },
+  {
+    "code": "512600",
+    "name": "主要消费",
+    "exchange": "sh"
+  },
+  {
+    "code": "512610",
+    "name": "医药卫生",
+    "exchange": "sh"
+  },
+  {
+    "code": "512640",
+    "name": "金融地产",
+    "exchange": "sh"
+  },
+  {
+    "code": "512680",
+    "name": "军工基金",
+    "exchange": "sh"
+  },
+  {
+    "code": "512810",
+    "name": "军工行业",
+    "exchange": "sh"
+  },
+  {
+    "code": "512900",
+    "name": "证券基金",
+    "exchange": "sh"
+  },
+  {
+    "code": "512990",
+    "name": "MSCIA股",
+    "exchange": "sh"
+  },
+  {
+    "code": "513030",
+    "name": "德国30",
+    "exchange": "sh"
+  },
+  {
+    "code": "513050",
+    "name": "中概互联",
+    "exchange": "sh"
+  },
+  {
+    "code": "513100",
+    "name": "纳指ETF",
+    "exchange": "sh"
+  },
+  {
+    "code": "513500",
+    "name": "标普500",
+    "exchange": "sh"
+  },
+  {
+    "code": "513600",
+    "name": "恒指ETF",
+    "exchange": "sh"
+  },
+  {
+    "code": "513660",
+    "name": "恒生通",
+    "exchange": "sh"
+  },
+  {
+    "code": "518800",
+    "name": "国泰黄金",
+    "exchange": "sh"
+  },
+  {
+    "code": "518880",
+    "name": "黄金ETF",
+    "exchange": "sh"
+  },
+  {
+    "code": "580012",
+    "name": "云化CWB1",
+    "exchange": "sh"
+  },
+  {
+    "code": "580013",
+    "name": "武钢CWB1",
+    "exchange": "sh"
+  },
+  {
+    "code": "580014",
+    "name": "深高CWB1",
+    "exchange": "sh"
+  },
+  {
+    "code": "580016",
+    "name": "上汽CWB1",
+    "exchange": "sh"
+  },
+  {
+    "code": "580017",
+    "name": "赣粤CWB1",
+    "exchange": "sh"
+  },
+  {
+    "code": "580019",
+    "name": "石化CWB1",
+    "exchange": "sh"
+  },
+  {
+    "code": "580020",
+    "name": "上港CWB1",
+    "exchange": "sh"
+  },
+  {
+    "code": "580021",
+    "name": "青啤CWB1",
+    "exchange": "sh"
+  },
+  {
+    "code": "580022",
+    "name": "国电CWB1",
+    "exchange": "sh"
+  },
+  {
+    "code": "580023",
+    "name": "康美CWB1",
+    "exchange": "sh"
+  },
+  {
+    "code": "580024",
+    "name": "宝钢CWB1",
+    "exchange": "sh"
+  },
+  {
+    "code": "580025",
+    "name": "葛洲CWB1",
+    "exchange": "sh"
+  },
+  {
+    "code": "580026",
+    "name": "江铜CWB1",
+    "exchange": "sh"
+  },
+  {
+    "code": "580027",
+    "name": "长虹CWB1",
+    "exchange": "sh"
+  },
+  {
+    "code": "600000",
+    "name": "浦发银行",
+    "exchange": "sh"
+  },
+  {
+    "code": "600001",
+    "name": "邯郸钢铁",
+    "exchange": "sh"
+  },
+  {
+    "code": "600002",
+    "name": "齐鲁石化",
+    "exchange": "sh"
+  },
+  {
+    "code": "600003",
+    "name": "ST东北高",
+    "exchange": "sh"
+  },
+  {
+    "code": "600004",
+    "name": "白云机场",
+    "exchange": "sh"
+  },
+  {
+    "code": "600005",
+    "name": "武钢股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600006",
+    "name": "东风汽车",
+    "exchange": "sh"
+  },
+  {
+    "code": "600007",
+    "name": "中国国贸",
+    "exchange": "sh"
+  },
+  {
+    "code": "600008",
+    "name": "首创股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600009",
+    "name": "上海机场",
+    "exchange": "sh"
+  },
+  {
+    "code": "600010",
+    "name": "包钢股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600011",
+    "name": "华能国际",
+    "exchange": "sh"
+  },
+  {
+    "code": "600012",
+    "name": "皖通高速",
+    "exchange": "sh"
+  },
+  {
+    "code": "600015",
+    "name": "华夏银行",
+    "exchange": "sh"
+  },
+  {
+    "code": "600016",
+    "name": "民生银行",
+    "exchange": "sh"
+  },
+  {
+    "code": "600017",
+    "name": "日照港",
+    "exchange": "sh"
+  },
+  {
+    "code": "600018",
+    "name": "上港集团",
+    "exchange": "sh"
+  },
+  {
+    "code": "600019",
+    "name": "宝钢股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600020",
+    "name": "中原高速",
+    "exchange": "sh"
+  },
+  {
+    "code": "600021",
+    "name": "上海电力",
+    "exchange": "sh"
+  },
+  {
+    "code": "600022",
+    "name": "山东钢铁",
+    "exchange": "sh"
+  },
+  {
+    "code": "600023",
+    "name": "浙能电力",
+    "exchange": "sh"
+  },
+  {
+    "code": "600026",
+    "name": "中远海能",
+    "exchange": "sh"
+  },
+  {
+    "code": "600027",
+    "name": "华电国际",
+    "exchange": "sh"
+  },
+  {
+    "code": "600028",
+    "name": "中国石化",
+    "exchange": "sh"
+  },
+  {
+    "code": "600029",
+    "name": "南方航空",
+    "exchange": "sh"
+  },
+  {
+    "code": "600030",
+    "name": "中信证券",
+    "exchange": "sh"
+  },
+  {
+    "code": "600031",
+    "name": "三一重工",
+    "exchange": "sh"
+  },
+  {
+    "code": "600033",
+    "name": "福建高速",
+    "exchange": "sh"
+  },
+  {
+    "code": "600035",
+    "name": "楚天高速",
+    "exchange": "sh"
+  },
+  {
+    "code": "600036",
+    "name": "招商银行",
+    "exchange": "sh"
+  },
+  {
+    "code": "600037",
+    "name": "歌华有线",
+    "exchange": "sh"
+  },
+  {
+    "code": "600038",
+    "name": "中直股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600039",
+    "name": "四川路桥",
+    "exchange": "sh"
+  },
+  {
+    "code": "600048",
+    "name": "保利地产",
+    "exchange": "sh"
+  },
+  {
+    "code": "600050",
+    "name": "中国联通",
+    "exchange": "sh"
+  },
+  {
+    "code": "600051",
+    "name": "宁波联合",
+    "exchange": "sh"
+  },
+  {
+    "code": "600052",
+    "name": "浙江广厦",
+    "exchange": "sh"
+  },
+  {
+    "code": "600053",
+    "name": "九鼎投资",
+    "exchange": "sh"
+  },
+  {
+    "code": "600054",
+    "name": "黄山旅游",
+    "exchange": "sh"
+  },
+  {
+    "code": "600055",
+    "name": "万东医疗",
+    "exchange": "sh"
+  },
+  {
+    "code": "600056",
+    "name": "中国医药",
+    "exchange": "sh"
+  },
+  {
+    "code": "600057",
+    "name": "象屿股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600058",
+    "name": "五矿发展",
+    "exchange": "sh"
+  },
+  {
+    "code": "600059",
+    "name": "古越龙山",
+    "exchange": "sh"
+  },
+  {
+    "code": "600060",
+    "name": "海信电器",
+    "exchange": "sh"
+  },
+  {
+    "code": "600061",
+    "name": "国投安信",
+    "exchange": "sh"
+  },
+  {
+    "code": "600062",
+    "name": "华润双鹤",
+    "exchange": "sh"
+  },
+  {
+    "code": "600063",
+    "name": "皖维高新",
+    "exchange": "sh"
+  },
+  {
+    "code": "600064",
+    "name": "南京高科",
+    "exchange": "sh"
+  },
+  {
+    "code": "600065",
+    "name": "*ST联谊",
+    "exchange": "sh"
+  },
+  {
+    "code": "600066",
+    "name": "宇通客车",
+    "exchange": "sh"
+  },
+  {
+    "code": "600067",
+    "name": "冠城大通",
+    "exchange": "sh"
+  },
+  {
+    "code": "600068",
+    "name": "葛洲坝",
+    "exchange": "sh"
+  },
+  {
+    "code": "600069",
+    "name": "银鸽投资",
+    "exchange": "sh"
+  },
+  {
+    "code": "600070",
+    "name": "浙江富润",
+    "exchange": "sh"
+  },
+  {
+    "code": "600071",
+    "name": "凤凰光学",
+    "exchange": "sh"
+  },
+  {
+    "code": "600072",
+    "name": "中船科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "600073",
+    "name": "上海梅林",
+    "exchange": "sh"
+  },
+  {
+    "code": "600074",
+    "name": "保千里",
+    "exchange": "sh"
+  },
+  {
+    "code": "600075",
+    "name": "新疆天业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600076",
+    "name": "康欣新材",
+    "exchange": "sh"
+  },
+  {
+    "code": "600077",
+    "name": "宋都股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600078",
+    "name": "澄星股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600079",
+    "name": "人福医药",
+    "exchange": "sh"
+  },
+  {
+    "code": "600080",
+    "name": "金花股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600081",
+    "name": "东风科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "600082",
+    "name": "海泰发展",
+    "exchange": "sh"
+  },
+  {
+    "code": "600083",
+    "name": "博信股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600084",
+    "name": "中葡股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600085",
+    "name": "同仁堂",
+    "exchange": "sh"
+  },
+  {
+    "code": "600086",
+    "name": "东方金钰",
+    "exchange": "sh"
+  },
+  {
+    "code": "600087",
+    "name": "退市长油",
+    "exchange": "sh"
+  },
+  {
+    "code": "600088",
+    "name": "中视传媒",
+    "exchange": "sh"
+  },
+  {
+    "code": "600089",
+    "name": "特变电工",
+    "exchange": "sh"
+  },
+  {
+    "code": "600090",
+    "name": "同济堂",
+    "exchange": "sh"
+  },
+  {
+    "code": "600091",
+    "name": "ST明科",
+    "exchange": "sh"
+  },
+  {
+    "code": "600092",
+    "name": "S*ST精密",
+    "exchange": "sh"
+  },
+  {
+    "code": "600093",
+    "name": "易见股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600094",
+    "name": "大名城",
+    "exchange": "sh"
+  },
+  {
+    "code": "600095",
+    "name": "哈高科",
+    "exchange": "sh"
+  },
+  {
+    "code": "600096",
+    "name": "云天化",
+    "exchange": "sh"
+  },
+  {
+    "code": "600097",
+    "name": "开创国际",
+    "exchange": "sh"
+  },
+  {
+    "code": "600098",
+    "name": "广州发展",
+    "exchange": "sh"
+  },
+  {
+    "code": "600099",
+    "name": "林海股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600100",
+    "name": "同方股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600101",
+    "name": "明星电力",
+    "exchange": "sh"
+  },
+  {
+    "code": "600102",
+    "name": "莱钢股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600103",
+    "name": "青山纸业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600104",
+    "name": "上汽集团",
+    "exchange": "sh"
+  },
+  {
+    "code": "600105",
+    "name": "永鼎股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600106",
+    "name": "重庆路桥",
+    "exchange": "sh"
+  },
+  {
+    "code": "600107",
+    "name": "美尔雅",
+    "exchange": "sh"
+  },
+  {
+    "code": "600108",
+    "name": "亚盛集团",
+    "exchange": "sh"
+  },
+  {
+    "code": "600109",
+    "name": "国金证券",
+    "exchange": "sh"
+  },
+  {
+    "code": "600110",
+    "name": "诺德股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600111",
+    "name": "北方稀土",
+    "exchange": "sh"
+  },
+  {
+    "code": "600112",
+    "name": "*ST天成",
+    "exchange": "sh"
+  },
+  {
+    "code": "600113",
+    "name": "浙江东日",
+    "exchange": "sh"
+  },
+  {
+    "code": "600114",
+    "name": "东睦股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600115",
+    "name": "东方航空",
+    "exchange": "sh"
+  },
+  {
+    "code": "600116",
+    "name": "三峡水利",
+    "exchange": "sh"
+  },
+  {
+    "code": "600117",
+    "name": "西宁特钢",
+    "exchange": "sh"
+  },
+  {
+    "code": "600118",
+    "name": "中国卫星",
+    "exchange": "sh"
+  },
+  {
+    "code": "600119",
+    "name": "长江投资",
+    "exchange": "sh"
+  },
+  {
+    "code": "600120",
+    "name": "浙江东方",
+    "exchange": "sh"
+  },
+  {
+    "code": "600121",
+    "name": "*ST郑煤",
+    "exchange": "sh"
+  },
+  {
+    "code": "600122",
+    "name": "宏图高科",
+    "exchange": "sh"
+  },
+  {
+    "code": "600123",
+    "name": "兰花科创",
+    "exchange": "sh"
+  },
+  {
+    "code": "600125",
+    "name": "铁龙物流",
+    "exchange": "sh"
+  },
+  {
+    "code": "600126",
+    "name": "杭钢股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600127",
+    "name": "金健米业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600128",
+    "name": "弘业股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600129",
+    "name": "太极集团",
+    "exchange": "sh"
+  },
+  {
+    "code": "600130",
+    "name": "波导股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600131",
+    "name": "岷江水电",
+    "exchange": "sh"
+  },
+  {
+    "code": "600132",
+    "name": "重庆啤酒",
+    "exchange": "sh"
+  },
+  {
+    "code": "600133",
+    "name": "东湖高新",
+    "exchange": "sh"
+  },
+  {
+    "code": "600135",
+    "name": "乐凯胶片",
+    "exchange": "sh"
+  },
+  {
+    "code": "600136",
+    "name": "当代明诚",
+    "exchange": "sh"
+  },
+  {
+    "code": "600137",
+    "name": "浪莎股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600138",
+    "name": "中青旅",
+    "exchange": "sh"
+  },
+  {
+    "code": "600139",
+    "name": "西部资源",
+    "exchange": "sh"
+  },
+  {
+    "code": "600141",
+    "name": "兴发集团",
+    "exchange": "sh"
+  },
+  {
+    "code": "600143",
+    "name": "金发科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "600145",
+    "name": "*ST新亿",
+    "exchange": "sh"
+  },
+  {
+    "code": "600146",
+    "name": "商赢环球",
+    "exchange": "sh"
+  },
+  {
+    "code": "600148",
+    "name": "长春一东",
+    "exchange": "sh"
+  },
+  {
+    "code": "600149",
+    "name": "*ST坊展",
+    "exchange": "sh"
+  },
+  {
+    "code": "600150",
+    "name": "中国船舶",
+    "exchange": "sh"
+  },
+  {
+    "code": "600151",
+    "name": "航天机电",
+    "exchange": "sh"
+  },
+  {
+    "code": "600152",
+    "name": "维科精华",
+    "exchange": "sh"
+  },
+  {
+    "code": "600153",
+    "name": "建发股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600155",
+    "name": "宝硕股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600156",
+    "name": "华升股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600157",
+    "name": "永泰能源",
+    "exchange": "sh"
+  },
+  {
+    "code": "600158",
+    "name": "中体产业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600159",
+    "name": "大龙地产",
+    "exchange": "sh"
+  },
+  {
+    "code": "600160",
+    "name": "巨化股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600161",
+    "name": "天坛生物",
+    "exchange": "sh"
+  },
+  {
+    "code": "600162",
+    "name": "香江控股",
+    "exchange": "sh"
+  },
+  {
+    "code": "600163",
+    "name": "中闽能源",
+    "exchange": "sh"
+  },
+  {
+    "code": "600165",
+    "name": "新日恒力",
+    "exchange": "sh"
+  },
+  {
+    "code": "600166",
+    "name": "福田汽车",
+    "exchange": "sh"
+  },
+  {
+    "code": "600167",
+    "name": "联美控股",
+    "exchange": "sh"
+  },
+  {
+    "code": "600168",
+    "name": "武汉控股",
+    "exchange": "sh"
+  },
+  {
+    "code": "600169",
+    "name": "太原重工",
+    "exchange": "sh"
+  },
+  {
+    "code": "600170",
+    "name": "上海建工",
+    "exchange": "sh"
+  },
+  {
+    "code": "600171",
+    "name": "上海贝岭",
+    "exchange": "sh"
+  },
+  {
+    "code": "600172",
+    "name": "黄河旋风",
+    "exchange": "sh"
+  },
+  {
+    "code": "600173",
+    "name": "卧龙地产",
+    "exchange": "sh"
+  },
+  {
+    "code": "600175",
+    "name": "美都能源",
+    "exchange": "sh"
+  },
+  {
+    "code": "600176",
+    "name": "中国巨石",
+    "exchange": "sh"
+  },
+  {
+    "code": "600177",
+    "name": "雅戈尔",
+    "exchange": "sh"
+  },
+  {
+    "code": "600178",
+    "name": "东安动力",
+    "exchange": "sh"
+  },
+  {
+    "code": "600179",
+    "name": "安通控股",
+    "exchange": "sh"
+  },
+  {
+    "code": "600180",
+    "name": "瑞茂通",
+    "exchange": "sh"
+  },
+  {
+    "code": "600181",
+    "name": "S*ST云大",
+    "exchange": "sh"
+  },
+  {
+    "code": "600182",
+    "name": "S佳通",
+    "exchange": "sh"
+  },
+  {
+    "code": "600183",
+    "name": "生益科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "600184",
+    "name": "光电股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600185",
+    "name": "格力地产",
+    "exchange": "sh"
+  },
+  {
+    "code": "600186",
+    "name": "莲花健康",
+    "exchange": "sh"
+  },
+  {
+    "code": "600187",
+    "name": "国中水务",
+    "exchange": "sh"
+  },
+  {
+    "code": "600188",
+    "name": "兖州煤业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600189",
+    "name": "吉林森工",
+    "exchange": "sh"
+  },
+  {
+    "code": "600190",
+    "name": "锦州港",
+    "exchange": "sh"
+  },
+  {
+    "code": "600191",
+    "name": "华资实业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600192",
+    "name": "长城电工",
+    "exchange": "sh"
+  },
+  {
+    "code": "600193",
+    "name": "创兴资源",
+    "exchange": "sh"
+  },
+  {
+    "code": "600195",
+    "name": "中牧股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600196",
+    "name": "复星医药",
+    "exchange": "sh"
+  },
+  {
+    "code": "600197",
+    "name": "伊力特",
+    "exchange": "sh"
+  },
+  {
+    "code": "600198",
+    "name": "大唐电信",
+    "exchange": "sh"
+  },
+  {
+    "code": "600199",
+    "name": "金种子酒",
+    "exchange": "sh"
+  },
+  {
+    "code": "600200",
+    "name": "江苏吴中",
+    "exchange": "sh"
+  },
+  {
+    "code": "600201",
+    "name": "生物股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600202",
+    "name": "哈空调",
+    "exchange": "sh"
+  },
+  {
+    "code": "600203",
+    "name": "福日电子",
+    "exchange": "sh"
+  },
+  {
+    "code": "600205",
+    "name": "S山东铝",
+    "exchange": "sh"
+  },
+  {
+    "code": "600206",
+    "name": "有研新材",
+    "exchange": "sh"
+  },
+  {
+    "code": "600207",
+    "name": "安彩高科",
+    "exchange": "sh"
+  },
+  {
+    "code": "600208",
+    "name": "新湖中宝",
+    "exchange": "sh"
+  },
+  {
+    "code": "600209",
+    "name": "罗顿发展",
+    "exchange": "sh"
+  },
+  {
+    "code": "600210",
+    "name": "紫江企业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600211",
+    "name": "西藏药业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600212",
+    "name": "江泉实业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600213",
+    "name": "亚星客车",
+    "exchange": "sh"
+  },
+  {
+    "code": "600215",
+    "name": "长春经开",
+    "exchange": "sh"
+  },
+  {
+    "code": "600216",
+    "name": "浙江医药",
+    "exchange": "sh"
+  },
+  {
+    "code": "600217",
+    "name": "中再资环",
+    "exchange": "sh"
+  },
+  {
+    "code": "600218",
+    "name": "全柴动力",
+    "exchange": "sh"
+  },
+  {
+    "code": "600219",
+    "name": "南山铝业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600220",
+    "name": "江苏阳光",
+    "exchange": "sh"
+  },
+  {
+    "code": "600221",
+    "name": "海南航空",
+    "exchange": "sh"
+  },
+  {
+    "code": "600222",
+    "name": "太龙药业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600223",
+    "name": "鲁商置业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600225",
+    "name": "*ST松江",
+    "exchange": "sh"
+  },
+  {
+    "code": "600226",
+    "name": "升华拜克",
+    "exchange": "sh"
+  },
+  {
+    "code": "600227",
+    "name": "赤天化",
+    "exchange": "sh"
+  },
+  {
+    "code": "600228",
+    "name": "*ST昌九",
+    "exchange": "sh"
+  },
+  {
+    "code": "600229",
+    "name": "城市传媒",
+    "exchange": "sh"
+  },
+  {
+    "code": "600230",
+    "name": "沧州大化",
+    "exchange": "sh"
+  },
+  {
+    "code": "600231",
+    "name": "凌钢股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600232",
+    "name": "金鹰股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600233",
+    "name": "圆通速递",
+    "exchange": "sh"
+  },
+  {
+    "code": "600234",
+    "name": "ST山水",
+    "exchange": "sh"
+  },
+  {
+    "code": "600235",
+    "name": "民丰特纸",
+    "exchange": "sh"
+  },
+  {
+    "code": "600236",
+    "name": "桂冠电力",
+    "exchange": "sh"
+  },
+  {
+    "code": "600237",
+    "name": "铜峰电子",
+    "exchange": "sh"
+  },
+  {
+    "code": "600238",
+    "name": "海南椰岛",
+    "exchange": "sh"
+  },
+  {
+    "code": "600239",
+    "name": "云南城投",
+    "exchange": "sh"
+  },
+  {
+    "code": "600240",
+    "name": "华业资本",
+    "exchange": "sh"
+  },
+  {
+    "code": "600241",
+    "name": "时代万恒",
+    "exchange": "sh"
+  },
+  {
+    "code": "600242",
+    "name": "中昌数据",
+    "exchange": "sh"
+  },
+  {
+    "code": "600243",
+    "name": "青海华鼎",
+    "exchange": "sh"
+  },
+  {
+    "code": "600246",
+    "name": "万通地产",
+    "exchange": "sh"
+  },
+  {
+    "code": "600247",
+    "name": "ST成城",
+    "exchange": "sh"
+  },
+  {
+    "code": "600248",
+    "name": "延长化建",
+    "exchange": "sh"
+  },
+  {
+    "code": "600249",
+    "name": "两面针",
+    "exchange": "sh"
+  },
+  {
+    "code": "600250",
+    "name": "南纺股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600251",
+    "name": "冠农股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600252",
+    "name": "中恒集团",
+    "exchange": "sh"
+  },
+  {
+    "code": "600253",
+    "name": "天方药业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600255",
+    "name": "鑫科材料",
+    "exchange": "sh"
+  },
+  {
+    "code": "600256",
+    "name": "广汇能源",
+    "exchange": "sh"
+  },
+  {
+    "code": "600257",
+    "name": "大湖股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600258",
+    "name": "首旅酒店",
+    "exchange": "sh"
+  },
+  {
+    "code": "600259",
+    "name": "广晟有色",
+    "exchange": "sh"
+  },
+  {
+    "code": "600260",
+    "name": "凯乐科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "600261",
+    "name": "阳光照明",
+    "exchange": "sh"
+  },
+  {
+    "code": "600262",
+    "name": "北方股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600263",
+    "name": "路桥建设",
+    "exchange": "sh"
+  },
+  {
+    "code": "600265",
+    "name": "ST景谷",
+    "exchange": "sh"
+  },
+  {
+    "code": "600266",
+    "name": "北京城建",
+    "exchange": "sh"
+  },
+  {
+    "code": "600267",
+    "name": "海正药业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600268",
+    "name": "国电南自",
+    "exchange": "sh"
+  },
+  {
+    "code": "600269",
+    "name": "赣粤高速",
+    "exchange": "sh"
+  },
+  {
+    "code": "600270",
+    "name": "外运发展",
+    "exchange": "sh"
+  },
+  {
+    "code": "600271",
+    "name": "航天信息",
+    "exchange": "sh"
+  },
+  {
+    "code": "600272",
+    "name": "开开实业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600273",
+    "name": "嘉化能源",
+    "exchange": "sh"
+  },
+  {
+    "code": "600275",
+    "name": "武昌鱼",
+    "exchange": "sh"
+  },
+  {
+    "code": "600276",
+    "name": "恒瑞医药",
+    "exchange": "sh"
+  },
+  {
+    "code": "600277",
+    "name": "亿利洁能",
+    "exchange": "sh"
+  },
+  {
+    "code": "600278",
+    "name": "东方创业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600279",
+    "name": "重庆港九",
+    "exchange": "sh"
+  },
+  {
+    "code": "600280",
+    "name": "中央商场",
+    "exchange": "sh"
+  },
+  {
+    "code": "600281",
+    "name": "太化股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600282",
+    "name": "南钢股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600283",
+    "name": "钱江水利",
+    "exchange": "sh"
+  },
+  {
+    "code": "600284",
+    "name": "浦东建设",
+    "exchange": "sh"
+  },
+  {
+    "code": "600285",
+    "name": "羚锐制药",
+    "exchange": "sh"
+  },
+  {
+    "code": "600286",
+    "name": "S*ST国瓷",
+    "exchange": "sh"
+  },
+  {
+    "code": "600287",
+    "name": "江苏舜天",
+    "exchange": "sh"
+  },
+  {
+    "code": "600288",
+    "name": "大恒科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "600289",
+    "name": "亿阳信通",
+    "exchange": "sh"
+  },
+  {
+    "code": "600290",
+    "name": "华仪电气",
+    "exchange": "sh"
+  },
+  {
+    "code": "600291",
+    "name": "西水股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600292",
+    "name": "远达环保",
+    "exchange": "sh"
+  },
+  {
+    "code": "600293",
+    "name": "三峡新材",
+    "exchange": "sh"
+  },
+  {
+    "code": "600295",
+    "name": "鄂尔多斯",
+    "exchange": "sh"
+  },
+  {
+    "code": "600296",
+    "name": "S兰铝",
+    "exchange": "sh"
+  },
+  {
+    "code": "600297",
+    "name": "广汇汽车",
+    "exchange": "sh"
+  },
+  {
+    "code": "600298",
+    "name": "安琪酵母",
+    "exchange": "sh"
+  },
+  {
+    "code": "600299",
+    "name": "安迪苏",
+    "exchange": "sh"
+  },
+  {
+    "code": "600300",
+    "name": "维维股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600301",
+    "name": "ST南化",
+    "exchange": "sh"
+  },
+  {
+    "code": "600302",
+    "name": "标准股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600303",
+    "name": "曙光股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600305",
+    "name": "恒顺醋业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600306",
+    "name": "商业城",
+    "exchange": "sh"
+  },
+  {
+    "code": "600307",
+    "name": "酒钢宏兴",
+    "exchange": "sh"
+  },
+  {
+    "code": "600308",
+    "name": "华泰股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600309",
+    "name": "万华化学",
+    "exchange": "sh"
+  },
+  {
+    "code": "600310",
+    "name": "桂东电力",
+    "exchange": "sh"
+  },
+  {
+    "code": "600311",
+    "name": "荣华实业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600312",
+    "name": "平高电气",
+    "exchange": "sh"
+  },
+  {
+    "code": "600313",
+    "name": "农发种业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600315",
+    "name": "上海家化",
+    "exchange": "sh"
+  },
+  {
+    "code": "600316",
+    "name": "洪都航空",
+    "exchange": "sh"
+  },
+  {
+    "code": "600317",
+    "name": "营口港",
+    "exchange": "sh"
+  },
+  {
+    "code": "600318",
+    "name": "新力金融",
+    "exchange": "sh"
+  },
+  {
+    "code": "600319",
+    "name": "亚星化学",
+    "exchange": "sh"
+  },
+  {
+    "code": "600320",
+    "name": "振华重工",
+    "exchange": "sh"
+  },
+  {
+    "code": "600321",
+    "name": "国栋建设",
+    "exchange": "sh"
+  },
+  {
+    "code": "600322",
+    "name": "天房发展",
+    "exchange": "sh"
+  },
+  {
+    "code": "600323",
+    "name": "瀚蓝环境",
+    "exchange": "sh"
+  },
+  {
+    "code": "600325",
+    "name": "华发股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600326",
+    "name": "西藏天路",
+    "exchange": "sh"
+  },
+  {
+    "code": "600327",
+    "name": "大东方",
+    "exchange": "sh"
+  },
+  {
+    "code": "600328",
+    "name": "兰太实业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600329",
+    "name": "中新药业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600330",
+    "name": "天通股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600331",
+    "name": "宏达股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600332",
+    "name": "白云山",
+    "exchange": "sh"
+  },
+  {
+    "code": "600333",
+    "name": "长春燃气",
+    "exchange": "sh"
+  },
+  {
+    "code": "600335",
+    "name": "国机汽车",
+    "exchange": "sh"
+  },
+  {
+    "code": "600336",
+    "name": "澳柯玛",
+    "exchange": "sh"
+  },
+  {
+    "code": "600337",
+    "name": "美克家居",
+    "exchange": "sh"
+  },
+  {
+    "code": "600338",
+    "name": "西藏珠峰",
+    "exchange": "sh"
+  },
+  {
+    "code": "600339",
+    "name": "*ST油工",
+    "exchange": "sh"
+  },
+  {
+    "code": "600340",
+    "name": "华夏幸福",
+    "exchange": "sh"
+  },
+  {
+    "code": "600343",
+    "name": "航天动力",
+    "exchange": "sh"
+  },
+  {
+    "code": "600345",
+    "name": "长江通信",
+    "exchange": "sh"
+  },
+  {
+    "code": "600346",
+    "name": "恒力股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600348",
+    "name": "阳泉煤业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600349",
+    "name": "富通昭和",
+    "exchange": "sh"
+  },
+  {
+    "code": "600350",
+    "name": "山东高速",
+    "exchange": "sh"
+  },
+  {
+    "code": "600351",
+    "name": "亚宝药业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600352",
+    "name": "浙江龙盛",
+    "exchange": "sh"
+  },
+  {
+    "code": "600353",
+    "name": "旭光股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600354",
+    "name": "敦煌种业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600355",
+    "name": "精伦电子",
+    "exchange": "sh"
+  },
+  {
+    "code": "600356",
+    "name": "恒丰纸业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600357",
+    "name": "承德钒钛",
+    "exchange": "sh"
+  },
+  {
+    "code": "600358",
+    "name": "国旅联合",
+    "exchange": "sh"
+  },
+  {
+    "code": "600359",
+    "name": "新农开发",
+    "exchange": "sh"
+  },
+  {
+    "code": "600360",
+    "name": "华微电子",
+    "exchange": "sh"
+  },
+  {
+    "code": "600361",
+    "name": "华联综超",
+    "exchange": "sh"
+  },
+  {
+    "code": "600362",
+    "name": "江西铜业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600363",
+    "name": "联创光电",
+    "exchange": "sh"
+  },
+  {
+    "code": "600365",
+    "name": "通葡股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600366",
+    "name": "宁波韵升",
+    "exchange": "sh"
+  },
+  {
+    "code": "600367",
+    "name": "红星发展",
+    "exchange": "sh"
+  },
+  {
+    "code": "600368",
+    "name": "五洲交通",
+    "exchange": "sh"
+  },
+  {
+    "code": "600369",
+    "name": "西南证券",
+    "exchange": "sh"
+  },
+  {
+    "code": "600370",
+    "name": "三房巷",
+    "exchange": "sh"
+  },
+  {
+    "code": "600371",
+    "name": "万向德农",
+    "exchange": "sh"
+  },
+  {
+    "code": "600372",
+    "name": "中航电子",
+    "exchange": "sh"
+  },
+  {
+    "code": "600373",
+    "name": "中文传媒",
+    "exchange": "sh"
+  },
+  {
+    "code": "600375",
+    "name": "华菱星马",
+    "exchange": "sh"
+  },
+  {
+    "code": "600376",
+    "name": "首开股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600377",
+    "name": "宁沪高速",
+    "exchange": "sh"
+  },
+  {
+    "code": "600378",
+    "name": "天科股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600379",
+    "name": "宝光股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600380",
+    "name": "健康元",
+    "exchange": "sh"
+  },
+  {
+    "code": "600381",
+    "name": "青海春天",
+    "exchange": "sh"
+  },
+  {
+    "code": "600382",
+    "name": "广东明珠",
+    "exchange": "sh"
+  },
+  {
+    "code": "600383",
+    "name": "金地集团",
+    "exchange": "sh"
+  },
+  {
+    "code": "600385",
+    "name": "山东金泰",
+    "exchange": "sh"
+  },
+  {
+    "code": "600386",
+    "name": "北巴传媒",
+    "exchange": "sh"
+  },
+  {
+    "code": "600387",
+    "name": "海越股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600388",
+    "name": "龙净环保",
+    "exchange": "sh"
+  },
+  {
+    "code": "600389",
+    "name": "江山股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600390",
+    "name": "*ST金瑞",
+    "exchange": "sh"
+  },
+  {
+    "code": "600391",
+    "name": "成发科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "600392",
+    "name": "盛和资源",
+    "exchange": "sh"
+  },
+  {
+    "code": "600393",
+    "name": "粤泰股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600395",
+    "name": "盘江股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600396",
+    "name": "金山股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600397",
+    "name": "安源煤业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600398",
+    "name": "海澜之家",
+    "exchange": "sh"
+  },
+  {
+    "code": "600399",
+    "name": "抚顺特钢",
+    "exchange": "sh"
+  },
+  {
+    "code": "600400",
+    "name": "红豆股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600401",
+    "name": "海润光伏",
+    "exchange": "sh"
+  },
+  {
+    "code": "600403",
+    "name": "*ST大有",
+    "exchange": "sh"
+  },
+  {
+    "code": "600405",
+    "name": "动力源",
+    "exchange": "sh"
+  },
+  {
+    "code": "600406",
+    "name": "国电南瑞",
+    "exchange": "sh"
+  },
+  {
+    "code": "600408",
+    "name": "安泰集团",
+    "exchange": "sh"
+  },
+  {
+    "code": "600409",
+    "name": "三友化工",
+    "exchange": "sh"
+  },
+  {
+    "code": "600410",
+    "name": "华胜天成",
+    "exchange": "sh"
+  },
+  {
+    "code": "600415",
+    "name": "小商品城",
+    "exchange": "sh"
+  },
+  {
+    "code": "600416",
+    "name": "湘电股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600418",
+    "name": "江淮汽车",
+    "exchange": "sh"
+  },
+  {
+    "code": "600419",
+    "name": "天润乳业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600420",
+    "name": "现代制药",
+    "exchange": "sh"
+  },
+  {
+    "code": "600421",
+    "name": "仰帆控股",
+    "exchange": "sh"
+  },
+  {
+    "code": "600422",
+    "name": "昆药集团",
+    "exchange": "sh"
+  },
+  {
+    "code": "600423",
+    "name": "柳化股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600425",
+    "name": "*ST青松",
+    "exchange": "sh"
+  },
+  {
+    "code": "600426",
+    "name": "华鲁恒升",
+    "exchange": "sh"
+  },
+  {
+    "code": "600428",
+    "name": "中远海特",
+    "exchange": "sh"
+  },
+  {
+    "code": "600429",
+    "name": "三元股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600432",
+    "name": "*ST吉恩",
+    "exchange": "sh"
+  },
+  {
+    "code": "600433",
+    "name": "冠豪高新",
+    "exchange": "sh"
+  },
+  {
+    "code": "600435",
+    "name": "北方导航",
+    "exchange": "sh"
+  },
+  {
+    "code": "600436",
+    "name": "片仔癀",
+    "exchange": "sh"
+  },
+  {
+    "code": "600438",
+    "name": "通威股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600439",
+    "name": "瑞贝卡",
+    "exchange": "sh"
+  },
+  {
+    "code": "600444",
+    "name": "国机通用",
+    "exchange": "sh"
+  },
+  {
+    "code": "600446",
+    "name": "金证股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600448",
+    "name": "华纺股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600449",
+    "name": "宁夏建材",
+    "exchange": "sh"
+  },
+  {
+    "code": "600452",
+    "name": "涪陵电力",
+    "exchange": "sh"
+  },
+  {
+    "code": "600455",
+    "name": "博通股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600456",
+    "name": "宝钛股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600458",
+    "name": "时代新材",
+    "exchange": "sh"
+  },
+  {
+    "code": "600459",
+    "name": "贵研铂业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600460",
+    "name": "士兰微",
+    "exchange": "sh"
+  },
+  {
+    "code": "600461",
+    "name": "洪城水业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600462",
+    "name": "九有股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600463",
+    "name": "空港股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600466",
+    "name": "蓝光发展",
+    "exchange": "sh"
+  },
+  {
+    "code": "600467",
+    "name": "好当家",
+    "exchange": "sh"
+  },
+  {
+    "code": "600468",
+    "name": "百利电气",
+    "exchange": "sh"
+  },
+  {
+    "code": "600469",
+    "name": "风神股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600470",
+    "name": "六国化工",
+    "exchange": "sh"
+  },
+  {
+    "code": "600472",
+    "name": "包头铝业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600475",
+    "name": "华光股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600476",
+    "name": "湘邮科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "600477",
+    "name": "杭萧钢构",
+    "exchange": "sh"
+  },
+  {
+    "code": "600478",
+    "name": "科力远",
+    "exchange": "sh"
+  },
+  {
+    "code": "600479",
+    "name": "千金药业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600480",
+    "name": "凌云股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600481",
+    "name": "双良节能",
+    "exchange": "sh"
+  },
+  {
+    "code": "600482",
+    "name": "中国动力",
+    "exchange": "sh"
+  },
+  {
+    "code": "600483",
+    "name": "福能股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600485",
+    "name": "信威集团",
+    "exchange": "sh"
+  },
+  {
+    "code": "600486",
+    "name": "扬农化工",
+    "exchange": "sh"
+  },
+  {
+    "code": "600487",
+    "name": "亨通光电",
+    "exchange": "sh"
+  },
+  {
+    "code": "600488",
+    "name": "天药股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600489",
+    "name": "中金黄金",
+    "exchange": "sh"
+  },
+  {
+    "code": "600490",
+    "name": "鹏欣资源",
+    "exchange": "sh"
+  },
+  {
+    "code": "600491",
+    "name": "龙元建设",
+    "exchange": "sh"
+  },
+  {
+    "code": "600493",
+    "name": "凤竹纺织",
+    "exchange": "sh"
+  },
+  {
+    "code": "600495",
+    "name": "晋西车轴",
+    "exchange": "sh"
+  },
+  {
+    "code": "600496",
+    "name": "精工钢构",
+    "exchange": "sh"
+  },
+  {
+    "code": "600497",
+    "name": "驰宏锌锗",
+    "exchange": "sh"
+  },
+  {
+    "code": "600498",
+    "name": "烽火通信",
+    "exchange": "sh"
+  },
+  {
+    "code": "600499",
+    "name": "科达洁能",
+    "exchange": "sh"
+  },
+  {
+    "code": "600500",
+    "name": "中化国际",
+    "exchange": "sh"
+  },
+  {
+    "code": "600501",
+    "name": "航天晨光",
+    "exchange": "sh"
+  },
+  {
+    "code": "600502",
+    "name": "安徽水利",
+    "exchange": "sh"
+  },
+  {
+    "code": "600503",
+    "name": "华丽家族",
+    "exchange": "sh"
+  },
+  {
+    "code": "600505",
+    "name": "西昌电力",
+    "exchange": "sh"
+  },
+  {
+    "code": "600506",
+    "name": "香梨股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600507",
+    "name": "方大特钢",
+    "exchange": "sh"
+  },
+  {
+    "code": "600508",
+    "name": "上海能源",
+    "exchange": "sh"
+  },
+  {
+    "code": "600509",
+    "name": "天富能源",
+    "exchange": "sh"
+  },
+  {
+    "code": "600510",
+    "name": "黑牡丹",
+    "exchange": "sh"
+  },
+  {
+    "code": "600511",
+    "name": "国药股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600512",
+    "name": "腾达建设",
+    "exchange": "sh"
+  },
+  {
+    "code": "600513",
+    "name": "联环药业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600515",
+    "name": "海航基础",
+    "exchange": "sh"
+  },
+  {
+    "code": "600516",
+    "name": "方大炭素",
+    "exchange": "sh"
+  },
+  {
+    "code": "600517",
+    "name": "置信电气",
+    "exchange": "sh"
+  },
+  {
+    "code": "600518",
+    "name": "康美药业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600519",
+    "name": "贵州茅台",
+    "exchange": "sh"
+  },
+  {
+    "code": "600520",
+    "name": "中发科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "600521",
+    "name": "华海药业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600522",
+    "name": "中天科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "600523",
+    "name": "贵航股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600525",
+    "name": "长园集团",
+    "exchange": "sh"
+  },
+  {
+    "code": "600526",
+    "name": "菲达环保",
+    "exchange": "sh"
+  },
+  {
+    "code": "600527",
+    "name": "江南高纤",
+    "exchange": "sh"
+  },
+  {
+    "code": "600528",
+    "name": "中铁工业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600529",
+    "name": "山东药玻",
+    "exchange": "sh"
+  },
+  {
+    "code": "600530",
+    "name": "交大昂立",
+    "exchange": "sh"
+  },
+  {
+    "code": "600531",
+    "name": "豫光金铅",
+    "exchange": "sh"
+  },
+  {
+    "code": "600532",
+    "name": "宏达矿业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600533",
+    "name": "栖霞建设",
+    "exchange": "sh"
+  },
+  {
+    "code": "600535",
+    "name": "天士力",
+    "exchange": "sh"
+  },
+  {
+    "code": "600536",
+    "name": "中国软件",
+    "exchange": "sh"
+  },
+  {
+    "code": "600537",
+    "name": "亿晶光电",
+    "exchange": "sh"
+  },
+  {
+    "code": "600538",
+    "name": "国发股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600539",
+    "name": "狮头股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600540",
+    "name": "新赛股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600543",
+    "name": "莫高股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600545",
+    "name": "新疆城建",
+    "exchange": "sh"
+  },
+  {
+    "code": "600546",
+    "name": "山煤国际",
+    "exchange": "sh"
+  },
+  {
+    "code": "600547",
+    "name": "山东黄金",
+    "exchange": "sh"
+  },
+  {
+    "code": "600548",
+    "name": "深高速",
+    "exchange": "sh"
+  },
+  {
+    "code": "600549",
+    "name": "厦门钨业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600550",
+    "name": "保变电气",
+    "exchange": "sh"
+  },
+  {
+    "code": "600551",
+    "name": "时代出版",
+    "exchange": "sh"
+  },
+  {
+    "code": "600552",
+    "name": "凯盛科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "600553",
+    "name": "太行水泥",
+    "exchange": "sh"
+  },
+  {
+    "code": "600555",
+    "name": "海航创新",
+    "exchange": "sh"
+  },
+  {
+    "code": "600556",
+    "name": "ST慧球",
+    "exchange": "sh"
+  },
+  {
+    "code": "600557",
+    "name": "康缘药业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600558",
+    "name": "大西洋",
+    "exchange": "sh"
+  },
+  {
+    "code": "600559",
+    "name": "老白干酒",
+    "exchange": "sh"
+  },
+  {
+    "code": "600560",
+    "name": "金自天正",
+    "exchange": "sh"
+  },
+  {
+    "code": "600561",
+    "name": "江西长运",
+    "exchange": "sh"
+  },
+  {
+    "code": "600562",
+    "name": "国睿科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "600563",
+    "name": "法拉电子",
+    "exchange": "sh"
+  },
+  {
+    "code": "600565",
+    "name": "迪马股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600566",
+    "name": "济川药业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600567",
+    "name": "山鹰纸业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600568",
+    "name": "中珠医疗",
+    "exchange": "sh"
+  },
+  {
+    "code": "600569",
+    "name": "安阳钢铁",
+    "exchange": "sh"
+  },
+  {
+    "code": "600570",
+    "name": "恒生电子",
+    "exchange": "sh"
+  },
+  {
+    "code": "600571",
+    "name": "信雅达",
+    "exchange": "sh"
+  },
+  {
+    "code": "600572",
+    "name": "康恩贝",
+    "exchange": "sh"
+  },
+  {
+    "code": "600573",
+    "name": "惠泉啤酒",
+    "exchange": "sh"
+  },
+  {
+    "code": "600575",
+    "name": "皖江物流",
+    "exchange": "sh"
+  },
+  {
+    "code": "600576",
+    "name": "万家文化",
+    "exchange": "sh"
+  },
+  {
+    "code": "600577",
+    "name": "精达股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600578",
+    "name": "京能电力",
+    "exchange": "sh"
+  },
+  {
+    "code": "600579",
+    "name": "天华院",
+    "exchange": "sh"
+  },
+  {
+    "code": "600580",
+    "name": "卧龙电气",
+    "exchange": "sh"
+  },
+  {
+    "code": "600581",
+    "name": "*ST八钢",
+    "exchange": "sh"
+  },
+  {
+    "code": "600582",
+    "name": "天地科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "600583",
+    "name": "海油工程",
+    "exchange": "sh"
+  },
+  {
+    "code": "600584",
+    "name": "长电科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "600585",
+    "name": "海螺水泥",
+    "exchange": "sh"
+  },
+  {
+    "code": "600586",
+    "name": "金晶科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "600587",
+    "name": "新华医疗",
+    "exchange": "sh"
+  },
+  {
+    "code": "600588",
+    "name": "用友网络",
+    "exchange": "sh"
+  },
+  {
+    "code": "600589",
+    "name": "广东榕泰",
+    "exchange": "sh"
+  },
+  {
+    "code": "600590",
+    "name": "泰豪科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "600591",
+    "name": "*ST上航",
+    "exchange": "sh"
+  },
+  {
+    "code": "600592",
+    "name": "龙溪股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600593",
+    "name": "大连圣亚",
+    "exchange": "sh"
+  },
+  {
+    "code": "600594",
+    "name": "益佰制药",
+    "exchange": "sh"
+  },
+  {
+    "code": "600595",
+    "name": "中孚实业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600596",
+    "name": "新安股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600597",
+    "name": "光明乳业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600598",
+    "name": "北大荒",
+    "exchange": "sh"
+  },
+  {
+    "code": "600599",
+    "name": "熊猫金控",
+    "exchange": "sh"
+  },
+  {
+    "code": "600600",
+    "name": "青岛啤酒",
+    "exchange": "sh"
+  },
+  {
+    "code": "600601",
+    "name": "方正科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "600602",
+    "name": "云赛智联",
+    "exchange": "sh"
+  },
+  {
+    "code": "600603",
+    "name": "广汇物流",
+    "exchange": "sh"
+  },
+  {
+    "code": "600604",
+    "name": "市北高新",
+    "exchange": "sh"
+  },
+  {
+    "code": "600605",
+    "name": "汇通能源",
+    "exchange": "sh"
+  },
+  {
+    "code": "600606",
+    "name": "绿地控股",
+    "exchange": "sh"
+  },
+  {
+    "code": "600607",
+    "name": "上实医药",
+    "exchange": "sh"
+  },
+  {
+    "code": "600608",
+    "name": "*ST沪科",
+    "exchange": "sh"
+  },
+  {
+    "code": "600609",
+    "name": "金杯汽车",
+    "exchange": "sh"
+  },
+  {
+    "code": "600610",
+    "name": "中毅达",
+    "exchange": "sh"
+  },
+  {
+    "code": "600611",
+    "name": "大众交通",
+    "exchange": "sh"
+  },
+  {
+    "code": "600612",
+    "name": "老凤祥",
+    "exchange": "sh"
+  },
+  {
+    "code": "600613",
+    "name": "神奇制药",
+    "exchange": "sh"
+  },
+  {
+    "code": "600614",
+    "name": "鹏起科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "600615",
+    "name": "丰华股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600616",
+    "name": "金枫酒业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600617",
+    "name": "国新能源",
+    "exchange": "sh"
+  },
+  {
+    "code": "600618",
+    "name": "氯碱化工",
+    "exchange": "sh"
+  },
+  {
+    "code": "600619",
+    "name": "海立股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600620",
+    "name": "天宸股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600621",
+    "name": "华鑫股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600622",
+    "name": "嘉宝集团",
+    "exchange": "sh"
+  },
+  {
+    "code": "600623",
+    "name": "华谊集团",
+    "exchange": "sh"
+  },
+  {
+    "code": "600624",
+    "name": "复旦复华",
+    "exchange": "sh"
+  },
+  {
+    "code": "600625",
+    "name": "PT水仙",
+    "exchange": "sh"
+  },
+  {
+    "code": "600626",
+    "name": "申达股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600627",
+    "name": "上电股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600628",
+    "name": "新世界",
+    "exchange": "sh"
+  },
+  {
+    "code": "600629",
+    "name": "华建集团",
+    "exchange": "sh"
+  },
+  {
+    "code": "600630",
+    "name": "龙头股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600631",
+    "name": "百联股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600632",
+    "name": "华联商厦",
+    "exchange": "sh"
+  },
+  {
+    "code": "600633",
+    "name": "浙数文化",
+    "exchange": "sh"
+  },
+  {
+    "code": "600634",
+    "name": "富控互动",
+    "exchange": "sh"
+  },
+  {
+    "code": "600635",
+    "name": "大众公用",
+    "exchange": "sh"
+  },
+  {
+    "code": "600636",
+    "name": "*ST爱富",
+    "exchange": "sh"
+  },
+  {
+    "code": "600637",
+    "name": "东方明珠",
+    "exchange": "sh"
+  },
+  {
+    "code": "600638",
+    "name": "新黄浦",
+    "exchange": "sh"
+  },
+  {
+    "code": "600639",
+    "name": "浦东金桥",
+    "exchange": "sh"
+  },
+  {
+    "code": "600640",
+    "name": "号百控股",
+    "exchange": "sh"
+  },
+  {
+    "code": "600641",
+    "name": "万业企业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600642",
+    "name": "申能股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600643",
+    "name": "爱建集团",
+    "exchange": "sh"
+  },
+  {
+    "code": "600644",
+    "name": "乐山电力",
+    "exchange": "sh"
+  },
+  {
+    "code": "600645",
+    "name": "中源协和",
+    "exchange": "sh"
+  },
+  {
+    "code": "600646",
+    "name": "ST国嘉",
+    "exchange": "sh"
+  },
+  {
+    "code": "600647",
+    "name": "同达创业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600648",
+    "name": "外高桥",
+    "exchange": "sh"
+  },
+  {
+    "code": "600649",
+    "name": "城投控股",
+    "exchange": "sh"
+  },
+  {
+    "code": "600650",
+    "name": "锦江投资",
+    "exchange": "sh"
+  },
+  {
+    "code": "600651",
+    "name": "飞乐音响",
+    "exchange": "sh"
+  },
+  {
+    "code": "600652",
+    "name": "游久游戏",
+    "exchange": "sh"
+  },
+  {
+    "code": "600653",
+    "name": "申华控股",
+    "exchange": "sh"
+  },
+  {
+    "code": "600654",
+    "name": "中安消",
+    "exchange": "sh"
+  },
+  {
+    "code": "600655",
+    "name": "豫园商城",
+    "exchange": "sh"
+  },
+  {
+    "code": "600656",
+    "name": "退市博元",
+    "exchange": "sh"
+  },
+  {
+    "code": "600657",
+    "name": "信达地产",
+    "exchange": "sh"
+  },
+  {
+    "code": "600658",
+    "name": "电子城",
+    "exchange": "sh"
+  },
+  {
+    "code": "600659",
+    "name": "*ST花雕",
+    "exchange": "sh"
+  },
+  {
+    "code": "600660",
+    "name": "福耀玻璃",
+    "exchange": "sh"
+  },
+  {
+    "code": "600661",
+    "name": "新南洋",
+    "exchange": "sh"
+  },
+  {
+    "code": "600662",
+    "name": "强生控股",
+    "exchange": "sh"
+  },
+  {
+    "code": "600663",
+    "name": "陆家嘴",
+    "exchange": "sh"
+  },
+  {
+    "code": "600664",
+    "name": "哈药股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600665",
+    "name": "天地源",
+    "exchange": "sh"
+  },
+  {
+    "code": "600666",
+    "name": "奥瑞德",
+    "exchange": "sh"
+  },
+  {
+    "code": "600667",
+    "name": "太极实业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600668",
+    "name": "尖峰集团",
+    "exchange": "sh"
+  },
+  {
+    "code": "600669",
+    "name": "*ST鞍成",
+    "exchange": "sh"
+  },
+  {
+    "code": "600670",
+    "name": "*ST斯达",
+    "exchange": "sh"
+  },
+  {
+    "code": "600671",
+    "name": "天目药业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600672",
+    "name": "*ST华圣",
+    "exchange": "sh"
+  },
+  {
+    "code": "600673",
+    "name": "东阳光科",
+    "exchange": "sh"
+  },
+  {
+    "code": "600674",
+    "name": "川投能源",
+    "exchange": "sh"
+  },
+  {
+    "code": "600675",
+    "name": "中华企业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600676",
+    "name": "交运股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600677",
+    "name": "航天通信",
+    "exchange": "sh"
+  },
+  {
+    "code": "600678",
+    "name": "四川金顶",
+    "exchange": "sh"
+  },
+  {
+    "code": "600679",
+    "name": "上海凤凰",
+    "exchange": "sh"
+  },
+  {
+    "code": "600680",
+    "name": "*ST上普",
+    "exchange": "sh"
+  },
+  {
+    "code": "600681",
+    "name": "百川能源",
+    "exchange": "sh"
+  },
+  {
+    "code": "600682",
+    "name": "南京新百",
+    "exchange": "sh"
+  },
+  {
+    "code": "600683",
+    "name": "京投发展",
+    "exchange": "sh"
+  },
+  {
+    "code": "600684",
+    "name": "珠江实业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600685",
+    "name": "中船防务",
+    "exchange": "sh"
+  },
+  {
+    "code": "600686",
+    "name": "金龙汽车",
+    "exchange": "sh"
+  },
+  {
+    "code": "600687",
+    "name": "刚泰控股",
+    "exchange": "sh"
+  },
+  {
+    "code": "600688",
+    "name": "上海石化",
+    "exchange": "sh"
+  },
+  {
+    "code": "600689",
+    "name": "上海三毛",
+    "exchange": "sh"
+  },
+  {
+    "code": "600690",
+    "name": "青岛海尔",
+    "exchange": "sh"
+  },
+  {
+    "code": "600691",
+    "name": "阳煤化工",
+    "exchange": "sh"
+  },
+  {
+    "code": "600692",
+    "name": "亚通股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600693",
+    "name": "东百集团",
+    "exchange": "sh"
+  },
+  {
+    "code": "600694",
+    "name": "大商股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600695",
+    "name": "绿庭投资",
+    "exchange": "sh"
+  },
+  {
+    "code": "600696",
+    "name": "*ST匹凸",
+    "exchange": "sh"
+  },
+  {
+    "code": "600697",
+    "name": "欧亚集团",
+    "exchange": "sh"
+  },
+  {
+    "code": "600698",
+    "name": "湖南天雁",
+    "exchange": "sh"
+  },
+  {
+    "code": "600699",
+    "name": "均胜电子",
+    "exchange": "sh"
+  },
+  {
+    "code": "600700",
+    "name": "*ST数码",
+    "exchange": "sh"
+  },
+  {
+    "code": "600701",
+    "name": "工大高新",
+    "exchange": "sh"
+  },
+  {
+    "code": "600702",
+    "name": "沱牌舍得",
+    "exchange": "sh"
+  },
+  {
+    "code": "600703",
+    "name": "三安光电",
+    "exchange": "sh"
+  },
+  {
+    "code": "600704",
+    "name": "物产中大",
+    "exchange": "sh"
+  },
+  {
+    "code": "600705",
+    "name": "中航资本",
+    "exchange": "sh"
+  },
+  {
+    "code": "600706",
+    "name": "曲江文旅",
+    "exchange": "sh"
+  },
+  {
+    "code": "600707",
+    "name": "彩虹股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600708",
+    "name": "光明地产",
+    "exchange": "sh"
+  },
+  {
+    "code": "600709",
+    "name": "ST生态",
+    "exchange": "sh"
+  },
+  {
+    "code": "600710",
+    "name": "*ST常林",
+    "exchange": "sh"
+  },
+  {
+    "code": "600711",
+    "name": "盛屯矿业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600712",
+    "name": "南宁百货",
+    "exchange": "sh"
+  },
+  {
+    "code": "600713",
+    "name": "南京医药",
+    "exchange": "sh"
+  },
+  {
+    "code": "600714",
+    "name": "金瑞矿业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600715",
+    "name": "文投控股",
+    "exchange": "sh"
+  },
+  {
+    "code": "600716",
+    "name": "凤凰股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600717",
+    "name": "天津港",
+    "exchange": "sh"
+  },
+  {
+    "code": "600718",
+    "name": "东软集团",
+    "exchange": "sh"
+  },
+  {
+    "code": "600719",
+    "name": "大连热电",
+    "exchange": "sh"
+  },
+  {
+    "code": "600720",
+    "name": "祁连山",
+    "exchange": "sh"
+  },
+  {
+    "code": "600721",
+    "name": "百花村",
+    "exchange": "sh"
+  },
+  {
+    "code": "600722",
+    "name": "金牛化工",
+    "exchange": "sh"
+  },
+  {
+    "code": "600723",
+    "name": "首商股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600724",
+    "name": "宁波富达",
+    "exchange": "sh"
+  },
+  {
+    "code": "600725",
+    "name": "ST云维",
+    "exchange": "sh"
+  },
+  {
+    "code": "600726",
+    "name": "华电能源",
+    "exchange": "sh"
+  },
+  {
+    "code": "600727",
+    "name": "鲁北化工",
+    "exchange": "sh"
+  },
+  {
+    "code": "600728",
+    "name": "佳都科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "600729",
+    "name": "重庆百货",
+    "exchange": "sh"
+  },
+  {
+    "code": "600730",
+    "name": "中国高科",
+    "exchange": "sh"
+  },
+  {
+    "code": "600731",
+    "name": "湖南海利",
+    "exchange": "sh"
+  },
+  {
+    "code": "600732",
+    "name": "*ST新梅",
+    "exchange": "sh"
+  },
+  {
+    "code": "600733",
+    "name": "S*ST前锋",
+    "exchange": "sh"
+  },
+  {
+    "code": "600734",
+    "name": "实达集团",
+    "exchange": "sh"
+  },
+  {
+    "code": "600735",
+    "name": "新华锦",
+    "exchange": "sh"
+  },
+  {
+    "code": "600736",
+    "name": "苏州高新",
+    "exchange": "sh"
+  },
+  {
+    "code": "600737",
+    "name": "中粮糖业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600738",
+    "name": "兰州民百",
+    "exchange": "sh"
+  },
+  {
+    "code": "600739",
+    "name": "辽宁成大",
+    "exchange": "sh"
+  },
+  {
+    "code": "600740",
+    "name": "山西焦化",
+    "exchange": "sh"
+  },
+  {
+    "code": "600741",
+    "name": "华域汽车",
+    "exchange": "sh"
+  },
+  {
+    "code": "600742",
+    "name": "一汽富维",
+    "exchange": "sh"
+  },
+  {
+    "code": "600743",
+    "name": "华远地产",
+    "exchange": "sh"
+  },
+  {
+    "code": "600744",
+    "name": "华银电力",
+    "exchange": "sh"
+  },
+  {
+    "code": "600745",
+    "name": "中茵股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600746",
+    "name": "江苏索普",
+    "exchange": "sh"
+  },
+  {
+    "code": "600747",
+    "name": "大连控股",
+    "exchange": "sh"
+  },
+  {
+    "code": "600748",
+    "name": "上实发展",
+    "exchange": "sh"
+  },
+  {
+    "code": "600749",
+    "name": "西藏旅游",
+    "exchange": "sh"
+  },
+  {
+    "code": "600750",
+    "name": "江中药业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600751",
+    "name": "天海投资",
+    "exchange": "sh"
+  },
+  {
+    "code": "600752",
+    "name": "*ST哈慈",
+    "exchange": "sh"
+  },
+  {
+    "code": "600753",
+    "name": "东方银星",
+    "exchange": "sh"
+  },
+  {
+    "code": "600754",
+    "name": "锦江股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600755",
+    "name": "厦门国贸",
+    "exchange": "sh"
+  },
+  {
+    "code": "600756",
+    "name": "浪潮软件",
+    "exchange": "sh"
+  },
+  {
+    "code": "600757",
+    "name": "长江传媒",
+    "exchange": "sh"
+  },
+  {
+    "code": "600758",
+    "name": "红阳能源",
+    "exchange": "sh"
+  },
+  {
+    "code": "600759",
+    "name": "洲际油气",
+    "exchange": "sh"
+  },
+  {
+    "code": "600760",
+    "name": "中航黑豹",
+    "exchange": "sh"
+  },
+  {
+    "code": "600761",
+    "name": "安徽合力",
+    "exchange": "sh"
+  },
+  {
+    "code": "600762",
+    "name": "S*ST金荔",
+    "exchange": "sh"
+  },
+  {
+    "code": "600763",
+    "name": "通策医疗",
+    "exchange": "sh"
+  },
+  {
+    "code": "600764",
+    "name": "中电广通",
+    "exchange": "sh"
+  },
+  {
+    "code": "600765",
+    "name": "中航重机",
+    "exchange": "sh"
+  },
+  {
+    "code": "600766",
+    "name": "园城黄金",
+    "exchange": "sh"
+  },
+  {
+    "code": "600767",
+    "name": "*ST运盛",
+    "exchange": "sh"
+  },
+  {
+    "code": "600768",
+    "name": "宁波富邦",
+    "exchange": "sh"
+  },
+  {
+    "code": "600769",
+    "name": "祥龙电业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600770",
+    "name": "综艺股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600771",
+    "name": "广誉远",
+    "exchange": "sh"
+  },
+  {
+    "code": "600772",
+    "name": "S*ST龙昌",
+    "exchange": "sh"
+  },
+  {
+    "code": "600773",
+    "name": "西藏城投",
+    "exchange": "sh"
+  },
+  {
+    "code": "600774",
+    "name": "汉商集团",
+    "exchange": "sh"
+  },
+  {
+    "code": "600775",
+    "name": "南京熊猫",
+    "exchange": "sh"
+  },
+  {
+    "code": "600776",
+    "name": "东方通信",
+    "exchange": "sh"
+  },
+  {
+    "code": "600777",
+    "name": "新潮能源",
+    "exchange": "sh"
+  },
+  {
+    "code": "600778",
+    "name": "友好集团",
+    "exchange": "sh"
+  },
+  {
+    "code": "600779",
+    "name": "水井坊",
+    "exchange": "sh"
+  },
+  {
+    "code": "600780",
+    "name": "通宝能源",
+    "exchange": "sh"
+  },
+  {
+    "code": "600781",
+    "name": "辅仁药业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600782",
+    "name": "新钢股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600783",
+    "name": "鲁信创投",
+    "exchange": "sh"
+  },
+  {
+    "code": "600784",
+    "name": "鲁银投资",
+    "exchange": "sh"
+  },
+  {
+    "code": "600785",
+    "name": "新华百货",
+    "exchange": "sh"
+  },
+  {
+    "code": "600786",
+    "name": "东方锅炉",
+    "exchange": "sh"
+  },
+  {
+    "code": "600787",
+    "name": "中储股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600788",
+    "name": "*ST达曼",
+    "exchange": "sh"
+  },
+  {
+    "code": "600789",
+    "name": "鲁抗医药",
+    "exchange": "sh"
+  },
+  {
+    "code": "600790",
+    "name": "轻纺城",
+    "exchange": "sh"
+  },
+  {
+    "code": "600791",
+    "name": "京能置业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600792",
+    "name": "云煤能源",
+    "exchange": "sh"
+  },
+  {
+    "code": "600793",
+    "name": "宜宾纸业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600794",
+    "name": "保税科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "600795",
+    "name": "国电电力",
+    "exchange": "sh"
+  },
+  {
+    "code": "600796",
+    "name": "钱江生化",
+    "exchange": "sh"
+  },
+  {
+    "code": "600797",
+    "name": "浙大网新",
+    "exchange": "sh"
+  },
+  {
+    "code": "600798",
+    "name": "宁波海运",
+    "exchange": "sh"
+  },
+  {
+    "code": "600799",
+    "name": "*ST龙科",
+    "exchange": "sh"
+  },
+  {
+    "code": "600800",
+    "name": "天津磁卡",
+    "exchange": "sh"
+  },
+  {
+    "code": "600801",
+    "name": "华新水泥",
+    "exchange": "sh"
+  },
+  {
+    "code": "600802",
+    "name": "福建水泥",
+    "exchange": "sh"
+  },
+  {
+    "code": "600803",
+    "name": "新奥股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600804",
+    "name": "鹏博士",
+    "exchange": "sh"
+  },
+  {
+    "code": "600805",
+    "name": "悦达投资",
+    "exchange": "sh"
+  },
+  {
+    "code": "600806",
+    "name": "*ST昆机",
+    "exchange": "sh"
+  },
+  {
+    "code": "600807",
+    "name": "天业股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600808",
+    "name": "马钢股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600809",
+    "name": "山西汾酒",
+    "exchange": "sh"
+  },
+  {
+    "code": "600810",
+    "name": "神马股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600811",
+    "name": "东方集团",
+    "exchange": "sh"
+  },
+  {
+    "code": "600812",
+    "name": "华北制药",
+    "exchange": "sh"
+  },
+  {
+    "code": "600813",
+    "name": "ST鞍一工",
+    "exchange": "sh"
+  },
+  {
+    "code": "600814",
+    "name": "杭州解百",
+    "exchange": "sh"
+  },
+  {
+    "code": "600815",
+    "name": "厦工股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600816",
+    "name": "安信信托",
+    "exchange": "sh"
+  },
+  {
+    "code": "600817",
+    "name": "*ST宏盛",
+    "exchange": "sh"
+  },
+  {
+    "code": "600818",
+    "name": "中路股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600819",
+    "name": "耀皮玻璃",
+    "exchange": "sh"
+  },
+  {
+    "code": "600820",
+    "name": "隧道股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600821",
+    "name": "津劝业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600822",
+    "name": "上海物贸",
+    "exchange": "sh"
+  },
+  {
+    "code": "600823",
+    "name": "世茂股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600824",
+    "name": "益民集团",
+    "exchange": "sh"
+  },
+  {
+    "code": "600825",
+    "name": "新华传媒",
+    "exchange": "sh"
+  },
+  {
+    "code": "600826",
+    "name": "兰生股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600827",
+    "name": "百联股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600828",
+    "name": "茂业商业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600829",
+    "name": "人民同泰",
+    "exchange": "sh"
+  },
+  {
+    "code": "600830",
+    "name": "香溢融通",
+    "exchange": "sh"
+  },
+  {
+    "code": "600831",
+    "name": "广电网络",
+    "exchange": "sh"
+  },
+  {
+    "code": "600832",
+    "name": "东方明珠",
+    "exchange": "sh"
+  },
+  {
+    "code": "600833",
+    "name": "第一医药",
+    "exchange": "sh"
+  },
+  {
+    "code": "600834",
+    "name": "申通地铁",
+    "exchange": "sh"
+  },
+  {
+    "code": "600835",
+    "name": "上海机电",
+    "exchange": "sh"
+  },
+  {
+    "code": "600836",
+    "name": "界龙实业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600837",
+    "name": "海通证券",
+    "exchange": "sh"
+  },
+  {
+    "code": "600838",
+    "name": "上海九百",
+    "exchange": "sh"
+  },
+  {
+    "code": "600839",
+    "name": "四川长虹",
+    "exchange": "sh"
+  },
+  {
+    "code": "600840",
+    "name": "新湖创业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600841",
+    "name": "上柴股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600842",
+    "name": "中西药业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600843",
+    "name": "上工申贝",
+    "exchange": "sh"
+  },
+  {
+    "code": "600844",
+    "name": "丹化科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "600845",
+    "name": "宝信软件",
+    "exchange": "sh"
+  },
+  {
+    "code": "600846",
+    "name": "同济科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "600847",
+    "name": "万里股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600848",
+    "name": "上海临港",
+    "exchange": "sh"
+  },
+  {
+    "code": "600849",
+    "name": "上药转换",
+    "exchange": "sh"
+  },
+  {
+    "code": "600850",
+    "name": "华东电脑",
+    "exchange": "sh"
+  },
+  {
+    "code": "600851",
+    "name": "海欣股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600852",
+    "name": "*ST中川",
+    "exchange": "sh"
+  },
+  {
+    "code": "600853",
+    "name": "龙建股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600854",
+    "name": "春兰股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600855",
+    "name": "航天长峰",
+    "exchange": "sh"
+  },
+  {
+    "code": "600856",
+    "name": "中天能源",
+    "exchange": "sh"
+  },
+  {
+    "code": "600857",
+    "name": "宁波中百",
+    "exchange": "sh"
+  },
+  {
+    "code": "600858",
+    "name": "银座股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600859",
+    "name": "王府井",
+    "exchange": "sh"
+  },
+  {
+    "code": "600860",
+    "name": "*ST京城",
+    "exchange": "sh"
+  },
+  {
+    "code": "600861",
+    "name": "北京城乡",
+    "exchange": "sh"
+  },
+  {
+    "code": "600862",
+    "name": "中航高科",
+    "exchange": "sh"
+  },
+  {
+    "code": "600863",
+    "name": "内蒙华电",
+    "exchange": "sh"
+  },
+  {
+    "code": "600864",
+    "name": "哈投股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600865",
+    "name": "百大集团",
+    "exchange": "sh"
+  },
+  {
+    "code": "600866",
+    "name": "星湖科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "600867",
+    "name": "通化东宝",
+    "exchange": "sh"
+  },
+  {
+    "code": "600868",
+    "name": "梅雁吉祥",
+    "exchange": "sh"
+  },
+  {
+    "code": "600869",
+    "name": "智慧能源",
+    "exchange": "sh"
+  },
+  {
+    "code": "600870",
+    "name": "厦华电子",
+    "exchange": "sh"
+  },
+  {
+    "code": "600871",
+    "name": "石化油服",
+    "exchange": "sh"
+  },
+  {
+    "code": "600872",
+    "name": "中炬高新",
+    "exchange": "sh"
+  },
+  {
+    "code": "600873",
+    "name": "梅花生物",
+    "exchange": "sh"
+  },
+  {
+    "code": "600874",
+    "name": "创业环保",
+    "exchange": "sh"
+  },
+  {
+    "code": "600875",
+    "name": "东方电气",
+    "exchange": "sh"
+  },
+  {
+    "code": "600876",
+    "name": "洛阳玻璃",
+    "exchange": "sh"
+  },
+  {
+    "code": "600877",
+    "name": "中国嘉陵",
+    "exchange": "sh"
+  },
+  {
+    "code": "600878",
+    "name": "*ST北科",
+    "exchange": "sh"
+  },
+  {
+    "code": "600879",
+    "name": "航天电子",
+    "exchange": "sh"
+  },
+  {
+    "code": "600880",
+    "name": "博瑞传播",
+    "exchange": "sh"
+  },
+  {
+    "code": "600881",
+    "name": "亚泰集团",
+    "exchange": "sh"
+  },
+  {
+    "code": "600882",
+    "name": "广泽股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600883",
+    "name": "博闻科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "600884",
+    "name": "杉杉股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600885",
+    "name": "宏发股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600886",
+    "name": "国投电力",
+    "exchange": "sh"
+  },
+  {
+    "code": "600887",
+    "name": "伊利股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600888",
+    "name": "新疆众和",
+    "exchange": "sh"
+  },
+  {
+    "code": "600889",
+    "name": "南京化纤",
+    "exchange": "sh"
+  },
+  {
+    "code": "600890",
+    "name": "中房股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600891",
+    "name": "秋林集团",
+    "exchange": "sh"
+  },
+  {
+    "code": "600892",
+    "name": "大晟文化",
+    "exchange": "sh"
+  },
+  {
+    "code": "600893",
+    "name": "中航动力",
+    "exchange": "sh"
+  },
+  {
+    "code": "600894",
+    "name": "广日股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600895",
+    "name": "张江高科",
+    "exchange": "sh"
+  },
+  {
+    "code": "600896",
+    "name": "览海投资",
+    "exchange": "sh"
+  },
+  {
+    "code": "600897",
+    "name": "厦门空港",
+    "exchange": "sh"
+  },
+  {
+    "code": "600898",
+    "name": "三联商社",
+    "exchange": "sh"
+  },
+  {
+    "code": "600899",
+    "name": "*ST信联",
+    "exchange": "sh"
+  },
+  {
+    "code": "600900",
+    "name": "长江电力",
+    "exchange": "sh"
+  },
+  {
+    "code": "600908",
+    "name": "无锡银行",
+    "exchange": "sh"
+  },
+  {
+    "code": "600909",
+    "name": "华安证券",
+    "exchange": "sh"
+  },
+  {
+    "code": "600917",
+    "name": "重庆燃气",
+    "exchange": "sh"
+  },
+  {
+    "code": "600919",
+    "name": "江苏银行",
+    "exchange": "sh"
+  },
+  {
+    "code": "600926",
+    "name": "杭州银行",
+    "exchange": "sh"
+  },
+  {
+    "code": "600936",
+    "name": "广西广电",
+    "exchange": "sh"
+  },
+  {
+    "code": "600939",
+    "name": "重庆建工",
+    "exchange": "sh"
+  },
+  {
+    "code": "600958",
+    "name": "东方证券",
+    "exchange": "sh"
+  },
+  {
+    "code": "600959",
+    "name": "江苏有线",
+    "exchange": "sh"
+  },
+  {
+    "code": "600960",
+    "name": "渤海活塞",
+    "exchange": "sh"
+  },
+  {
+    "code": "600961",
+    "name": "株冶集团",
+    "exchange": "sh"
+  },
+  {
+    "code": "600962",
+    "name": "国投中鲁",
+    "exchange": "sh"
+  },
+  {
+    "code": "600963",
+    "name": "岳阳林纸",
+    "exchange": "sh"
+  },
+  {
+    "code": "600965",
+    "name": "福成股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600966",
+    "name": "博汇纸业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600967",
+    "name": "北方创业",
+    "exchange": "sh"
+  },
+  {
+    "code": "600969",
+    "name": "郴电国际",
+    "exchange": "sh"
+  },
+  {
+    "code": "600970",
+    "name": "中材国际",
+    "exchange": "sh"
+  },
+  {
+    "code": "600971",
+    "name": "恒源煤电",
+    "exchange": "sh"
+  },
+  {
+    "code": "600973",
+    "name": "宝胜股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600975",
+    "name": "新五丰",
+    "exchange": "sh"
+  },
+  {
+    "code": "600976",
+    "name": "健民集团",
+    "exchange": "sh"
+  },
+  {
+    "code": "600977",
+    "name": "中国电影",
+    "exchange": "sh"
+  },
+  {
+    "code": "600978",
+    "name": "宜华生活",
+    "exchange": "sh"
+  },
+  {
+    "code": "600979",
+    "name": "广安爱众",
+    "exchange": "sh"
+  },
+  {
+    "code": "600980",
+    "name": "北矿科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "600981",
+    "name": "汇鸿集团",
+    "exchange": "sh"
+  },
+  {
+    "code": "600982",
+    "name": "宁波热电",
+    "exchange": "sh"
+  },
+  {
+    "code": "600983",
+    "name": "惠而浦",
+    "exchange": "sh"
+  },
+  {
+    "code": "600984",
+    "name": "建设机械",
+    "exchange": "sh"
+  },
+  {
+    "code": "600985",
+    "name": "雷鸣科化",
+    "exchange": "sh"
+  },
+  {
+    "code": "600986",
+    "name": "科达股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600987",
+    "name": "航民股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600988",
+    "name": "赤峰黄金",
+    "exchange": "sh"
+  },
+  {
+    "code": "600990",
+    "name": "四创电子",
+    "exchange": "sh"
+  },
+  {
+    "code": "600991",
+    "name": "广汽长丰",
+    "exchange": "sh"
+  },
+  {
+    "code": "600992",
+    "name": "贵绳股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600993",
+    "name": "马应龙",
+    "exchange": "sh"
+  },
+  {
+    "code": "600995",
+    "name": "文山电力",
+    "exchange": "sh"
+  },
+  {
+    "code": "600996",
+    "name": "贵广网络",
+    "exchange": "sh"
+  },
+  {
+    "code": "600997",
+    "name": "开滦股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "600998",
+    "name": "九州通",
+    "exchange": "sh"
+  },
+  {
+    "code": "600999",
+    "name": "招商证券",
+    "exchange": "sh"
+  },
+  {
+    "code": "601000",
+    "name": "唐山港",
+    "exchange": "sh"
+  },
+  {
+    "code": "601001",
+    "name": "大同煤业",
+    "exchange": "sh"
+  },
+  {
+    "code": "601002",
+    "name": "晋亿实业",
+    "exchange": "sh"
+  },
+  {
+    "code": "601003",
+    "name": "柳钢股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "601005",
+    "name": "*ST重钢",
+    "exchange": "sh"
+  },
+  {
+    "code": "601006",
+    "name": "大秦铁路",
+    "exchange": "sh"
+  },
+  {
+    "code": "601007",
+    "name": "金陵饭店",
+    "exchange": "sh"
+  },
+  {
+    "code": "601008",
+    "name": "连云港",
+    "exchange": "sh"
+  },
+  {
+    "code": "601009",
+    "name": "南京银行",
+    "exchange": "sh"
+  },
+  {
+    "code": "601010",
+    "name": "文峰股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "601011",
+    "name": "宝泰隆",
+    "exchange": "sh"
+  },
+  {
+    "code": "601012",
+    "name": "隆基股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "601015",
+    "name": "陕西黑猫",
+    "exchange": "sh"
+  },
+  {
+    "code": "601016",
+    "name": "节能风电",
+    "exchange": "sh"
+  },
+  {
+    "code": "601018",
+    "name": "宁波港",
+    "exchange": "sh"
+  },
+  {
+    "code": "601020",
+    "name": "华钰矿业",
+    "exchange": "sh"
+  },
+  {
+    "code": "601021",
+    "name": "春秋航空",
+    "exchange": "sh"
+  },
+  {
+    "code": "601028",
+    "name": "玉龙股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "601038",
+    "name": "一拖股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "601058",
+    "name": "赛轮金宇",
+    "exchange": "sh"
+  },
+  {
+    "code": "601069",
+    "name": "西部黄金",
+    "exchange": "sh"
+  },
+  {
+    "code": "601088",
+    "name": "中国神华",
+    "exchange": "sh"
+  },
+  {
+    "code": "601098",
+    "name": "中南传媒",
+    "exchange": "sh"
+  },
+  {
+    "code": "601099",
+    "name": "太平洋",
+    "exchange": "sh"
+  },
+  {
+    "code": "601100",
+    "name": "恒立液压",
+    "exchange": "sh"
+  },
+  {
+    "code": "601101",
+    "name": "昊华能源",
+    "exchange": "sh"
+  },
+  {
+    "code": "601106",
+    "name": "*ST一重",
+    "exchange": "sh"
+  },
+  {
+    "code": "601107",
+    "name": "四川成渝",
+    "exchange": "sh"
+  },
+  {
+    "code": "601111",
+    "name": "中国国航",
+    "exchange": "sh"
+  },
+  {
+    "code": "601113",
+    "name": "华鼎锦纶",
+    "exchange": "sh"
+  },
+  {
+    "code": "601116",
+    "name": "三江购物",
+    "exchange": "sh"
+  },
+  {
+    "code": "601117",
+    "name": "中国化学",
+    "exchange": "sh"
+  },
+  {
+    "code": "601118",
+    "name": "海南橡胶",
+    "exchange": "sh"
+  },
+  {
+    "code": "601126",
+    "name": "四方股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "601127",
+    "name": "小康股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "601128",
+    "name": "常熟银行",
+    "exchange": "sh"
+  },
+  {
+    "code": "601137",
+    "name": "博威合金",
+    "exchange": "sh"
+  },
+  {
+    "code": "601139",
+    "name": "深圳燃气",
+    "exchange": "sh"
+  },
+  {
+    "code": "601155",
+    "name": "新城控股",
+    "exchange": "sh"
+  },
+  {
+    "code": "601158",
+    "name": "重庆水务",
+    "exchange": "sh"
+  },
+  {
+    "code": "601163",
+    "name": "三角轮胎",
+    "exchange": "sh"
+  },
+  {
+    "code": "601166",
+    "name": "兴业银行",
+    "exchange": "sh"
+  },
+  {
+    "code": "601168",
+    "name": "西部矿业",
+    "exchange": "sh"
+  },
+  {
+    "code": "601169",
+    "name": "北京银行",
+    "exchange": "sh"
+  },
+  {
+    "code": "601177",
+    "name": "杭齿前进",
+    "exchange": "sh"
+  },
+  {
+    "code": "601179",
+    "name": "中国西电",
+    "exchange": "sh"
+  },
+  {
+    "code": "601186",
+    "name": "中国铁建",
+    "exchange": "sh"
+  },
+  {
+    "code": "601188",
+    "name": "龙江交通",
+    "exchange": "sh"
+  },
+  {
+    "code": "601198",
+    "name": "东兴证券",
+    "exchange": "sh"
+  },
+  {
+    "code": "601199",
+    "name": "江南水务",
+    "exchange": "sh"
+  },
+  {
+    "code": "601200",
+    "name": "上海环境",
+    "exchange": "sh"
+  },
+  {
+    "code": "601206",
+    "name": "海尔施",
+    "exchange": "sh"
+  },
+  {
+    "code": "601208",
+    "name": "东材科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "601211",
+    "name": "国泰君安",
+    "exchange": "sh"
+  },
+  {
+    "code": "601212",
+    "name": "白银有色",
+    "exchange": "sh"
+  },
+  {
+    "code": "601216",
+    "name": "君正集团",
+    "exchange": "sh"
+  },
+  {
+    "code": "601218",
+    "name": "吉鑫科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "601222",
+    "name": "林洋能源",
+    "exchange": "sh"
+  },
+  {
+    "code": "601225",
+    "name": "陕西煤业",
+    "exchange": "sh"
+  },
+  {
+    "code": "601226",
+    "name": "华电重工",
+    "exchange": "sh"
+  },
+  {
+    "code": "601228",
+    "name": "广州港",
+    "exchange": "sh"
+  },
+  {
+    "code": "601229",
+    "name": "上海银行",
+    "exchange": "sh"
+  },
+  {
+    "code": "601231",
+    "name": "环旭电子",
+    "exchange": "sh"
+  },
+  {
+    "code": "601233",
+    "name": "桐昆股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "601238",
+    "name": "广汽集团",
+    "exchange": "sh"
+  },
+  {
+    "code": "601258",
+    "name": "庞大集团",
+    "exchange": "sh"
+  },
+  {
+    "code": "601268",
+    "name": "*ST二重",
+    "exchange": "sh"
+  },
+  {
+    "code": "601288",
+    "name": "农业银行",
+    "exchange": "sh"
+  },
+  {
+    "code": "601299",
+    "name": "中国北车",
+    "exchange": "sh"
+  },
+  {
+    "code": "601311",
+    "name": "骆驼股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "601313",
+    "name": "江南嘉捷",
+    "exchange": "sh"
+  },
+  {
+    "code": "601318",
+    "name": "中国平安",
+    "exchange": "sh"
+  },
+  {
+    "code": "601328",
+    "name": "交通银行",
+    "exchange": "sh"
+  },
+  {
+    "code": "601333",
+    "name": "广深铁路",
+    "exchange": "sh"
+  },
+  {
+    "code": "601336",
+    "name": "新华保险",
+    "exchange": "sh"
+  },
+  {
+    "code": "601339",
+    "name": "百隆东方",
+    "exchange": "sh"
+  },
+  {
+    "code": "601366",
+    "name": "利群股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "601368",
+    "name": "绿城水务",
+    "exchange": "sh"
+  },
+  {
+    "code": "601369",
+    "name": "陕鼓动力",
+    "exchange": "sh"
+  },
+  {
+    "code": "601375",
+    "name": "中原证券",
+    "exchange": "sh"
+  },
+  {
+    "code": "601377",
+    "name": "兴业证券",
+    "exchange": "sh"
+  },
+  {
+    "code": "601388",
+    "name": "怡球资源",
+    "exchange": "sh"
+  },
+  {
+    "code": "601390",
+    "name": "中国中铁",
+    "exchange": "sh"
+  },
+  {
+    "code": "601398",
+    "name": "工商银行",
+    "exchange": "sh"
+  },
+  {
+    "code": "601500",
+    "name": "通用股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "601515",
+    "name": "东风股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "601518",
+    "name": "吉林高速",
+    "exchange": "sh"
+  },
+  {
+    "code": "601519",
+    "name": "大智慧",
+    "exchange": "sh"
+  },
+  {
+    "code": "601555",
+    "name": "东吴证券",
+    "exchange": "sh"
+  },
+  {
+    "code": "601558",
+    "name": "*ST锐电",
+    "exchange": "sh"
+  },
+  {
+    "code": "601566",
+    "name": "九牧王",
+    "exchange": "sh"
+  },
+  {
+    "code": "601567",
+    "name": "三星医疗",
+    "exchange": "sh"
+  },
+  {
+    "code": "601579",
+    "name": "会稽山",
+    "exchange": "sh"
+  },
+  {
+    "code": "601588",
+    "name": "北辰实业",
+    "exchange": "sh"
+  },
+  {
+    "code": "601595",
+    "name": "上海电影",
+    "exchange": "sh"
+  },
+  {
+    "code": "601599",
+    "name": "鹿港文化",
+    "exchange": "sh"
+  },
+  {
+    "code": "601600",
+    "name": "中国铝业",
+    "exchange": "sh"
+  },
+  {
+    "code": "601601",
+    "name": "中国太保",
+    "exchange": "sh"
+  },
+  {
+    "code": "601607",
+    "name": "上海医药",
+    "exchange": "sh"
+  },
+  {
+    "code": "601608",
+    "name": "中信重工",
+    "exchange": "sh"
+  },
+  {
+    "code": "601611",
+    "name": "中国核建",
+    "exchange": "sh"
+  },
+  {
+    "code": "601616",
+    "name": "广电电气",
+    "exchange": "sh"
+  },
+  {
+    "code": "601618",
+    "name": "中国中冶",
+    "exchange": "sh"
+  },
+  {
+    "code": "601628",
+    "name": "中国人寿",
+    "exchange": "sh"
+  },
+  {
+    "code": "601633",
+    "name": "长城汽车",
+    "exchange": "sh"
+  },
+  {
+    "code": "601636",
+    "name": "旗滨集团",
+    "exchange": "sh"
+  },
+  {
+    "code": "601666",
+    "name": "平煤股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "601668",
+    "name": "中国建筑",
+    "exchange": "sh"
+  },
+  {
+    "code": "601669",
+    "name": "中国电建",
+    "exchange": "sh"
+  },
+  {
+    "code": "601677",
+    "name": "明泰铝业",
+    "exchange": "sh"
+  },
+  {
+    "code": "601678",
+    "name": "滨化股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "601688",
+    "name": "华泰证券",
+    "exchange": "sh"
+  },
+  {
+    "code": "601689",
+    "name": "拓普集团",
+    "exchange": "sh"
+  },
+  {
+    "code": "601699",
+    "name": "潞安环能",
+    "exchange": "sh"
+  },
+  {
+    "code": "601700",
+    "name": "风范股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "601717",
+    "name": "郑煤机",
+    "exchange": "sh"
+  },
+  {
+    "code": "601718",
+    "name": "际华集团",
+    "exchange": "sh"
+  },
+  {
+    "code": "601727",
+    "name": "上海电气",
+    "exchange": "sh"
+  },
+  {
+    "code": "601766",
+    "name": "中国中车",
+    "exchange": "sh"
+  },
+  {
+    "code": "601777",
+    "name": "力帆股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "601788",
+    "name": "光大证券",
+    "exchange": "sh"
+  },
+  {
+    "code": "601789",
+    "name": "宁波建工",
+    "exchange": "sh"
+  },
+  {
+    "code": "601798",
+    "name": "蓝科高新",
+    "exchange": "sh"
+  },
+  {
+    "code": "601799",
+    "name": "星宇股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "601800",
+    "name": "中国交建",
+    "exchange": "sh"
+  },
+  {
+    "code": "601801",
+    "name": "皖新传媒",
+    "exchange": "sh"
+  },
+  {
+    "code": "601808",
+    "name": "中海油服",
+    "exchange": "sh"
+  },
+  {
+    "code": "601811",
+    "name": "新华文轩",
+    "exchange": "sh"
+  },
+  {
+    "code": "601818",
+    "name": "光大银行",
+    "exchange": "sh"
+  },
+  {
+    "code": "601857",
+    "name": "中国石油",
+    "exchange": "sh"
+  },
+  {
+    "code": "601858",
+    "name": "中国科传",
+    "exchange": "sh"
+  },
+  {
+    "code": "601866",
+    "name": "中远海发",
+    "exchange": "sh"
+  },
+  {
+    "code": "601872",
+    "name": "招商轮船",
+    "exchange": "sh"
+  },
+  {
+    "code": "601877",
+    "name": "正泰电器",
+    "exchange": "sh"
+  },
+  {
+    "code": "601880",
+    "name": "大连港",
+    "exchange": "sh"
+  },
+  {
+    "code": "601881",
+    "name": "中国银河",
+    "exchange": "sh"
+  },
+  {
+    "code": "601882",
+    "name": "海天精工",
+    "exchange": "sh"
+  },
+  {
+    "code": "601886",
+    "name": "江河集团",
+    "exchange": "sh"
+  },
+  {
+    "code": "601888",
+    "name": "中国国旅",
+    "exchange": "sh"
+  },
+  {
+    "code": "601890",
+    "name": "亚星锚链",
+    "exchange": "sh"
+  },
+  {
+    "code": "601898",
+    "name": "中煤能源",
+    "exchange": "sh"
+  },
+  {
+    "code": "601899",
+    "name": "紫金矿业",
+    "exchange": "sh"
+  },
+  {
+    "code": "601900",
+    "name": "南方传媒",
+    "exchange": "sh"
+  },
+  {
+    "code": "601901",
+    "name": "方正证券",
+    "exchange": "sh"
+  },
+  {
+    "code": "601908",
+    "name": "京运通",
+    "exchange": "sh"
+  },
+  {
+    "code": "601918",
+    "name": "新集能源",
+    "exchange": "sh"
+  },
+  {
+    "code": "601919",
+    "name": "中远海控",
+    "exchange": "sh"
+  },
+  {
+    "code": "601928",
+    "name": "凤凰传媒",
+    "exchange": "sh"
+  },
+  {
+    "code": "601929",
+    "name": "吉视传媒",
+    "exchange": "sh"
+  },
+  {
+    "code": "601933",
+    "name": "永辉超市",
+    "exchange": "sh"
+  },
+  {
+    "code": "601939",
+    "name": "建设银行",
+    "exchange": "sh"
+  },
+  {
+    "code": "601952",
+    "name": "苏垦农发",
+    "exchange": "sh"
+  },
+  {
+    "code": "601958",
+    "name": "金钼股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "601965",
+    "name": "中国汽研",
+    "exchange": "sh"
+  },
+  {
+    "code": "601966",
+    "name": "玲珑轮胎",
+    "exchange": "sh"
+  },
+  {
+    "code": "601968",
+    "name": "宝钢包装",
+    "exchange": "sh"
+  },
+  {
+    "code": "601969",
+    "name": "海南矿业",
+    "exchange": "sh"
+  },
+  {
+    "code": "601985",
+    "name": "中国核电",
+    "exchange": "sh"
+  },
+  {
+    "code": "601988",
+    "name": "中国银行",
+    "exchange": "sh"
+  },
+  {
+    "code": "601989",
+    "name": "中国重工",
+    "exchange": "sh"
+  },
+  {
+    "code": "601991",
+    "name": "大唐发电",
+    "exchange": "sh"
+  },
+  {
+    "code": "601992",
+    "name": "金隅股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "601996",
+    "name": "丰林集团",
+    "exchange": "sh"
+  },
+  {
+    "code": "601997",
+    "name": "贵阳银行",
+    "exchange": "sh"
+  },
+  {
+    "code": "601998",
+    "name": "中信银行",
+    "exchange": "sh"
+  },
+  {
+    "code": "601999",
+    "name": "出版传媒",
+    "exchange": "sh"
+  },
+  {
+    "code": "603000",
+    "name": "人民网",
+    "exchange": "sh"
+  },
+  {
+    "code": "603001",
+    "name": "奥康国际",
+    "exchange": "sh"
+  },
+  {
+    "code": "603002",
+    "name": "宏昌电子",
+    "exchange": "sh"
+  },
+  {
+    "code": "603003",
+    "name": "龙宇燃油",
+    "exchange": "sh"
+  },
+  {
+    "code": "603005",
+    "name": "晶方科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "603006",
+    "name": "联明股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603007",
+    "name": "花王股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603008",
+    "name": "喜临门",
+    "exchange": "sh"
+  },
+  {
+    "code": "603009",
+    "name": "北特科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "603010",
+    "name": "万盛股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603011",
+    "name": "合锻智能",
+    "exchange": "sh"
+  },
+  {
+    "code": "603012",
+    "name": "创力集团",
+    "exchange": "sh"
+  },
+  {
+    "code": "603015",
+    "name": "弘讯科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "603016",
+    "name": "新宏泰",
+    "exchange": "sh"
+  },
+  {
+    "code": "603017",
+    "name": "中衡设计",
+    "exchange": "sh"
+  },
+  {
+    "code": "603018",
+    "name": "中设集团",
+    "exchange": "sh"
+  },
+  {
+    "code": "603019",
+    "name": "中科曙光",
+    "exchange": "sh"
+  },
+  {
+    "code": "603020",
+    "name": "爱普股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603021",
+    "name": "山东华鹏",
+    "exchange": "sh"
+  },
+  {
+    "code": "603022",
+    "name": "新通联",
+    "exchange": "sh"
+  },
+  {
+    "code": "603023",
+    "name": "威帝股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603025",
+    "name": "大豪科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "603026",
+    "name": "石大胜华",
+    "exchange": "sh"
+  },
+  {
+    "code": "603027",
+    "name": "千禾味业",
+    "exchange": "sh"
+  },
+  {
+    "code": "603028",
+    "name": "赛福天",
+    "exchange": "sh"
+  },
+  {
+    "code": "603029",
+    "name": "天鹅股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603030",
+    "name": "全筑股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603031",
+    "name": "安德利",
+    "exchange": "sh"
+  },
+  {
+    "code": "603032",
+    "name": "德新交运",
+    "exchange": "sh"
+  },
+  {
+    "code": "603033",
+    "name": "三维股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603035",
+    "name": "常熟汽饰",
+    "exchange": "sh"
+  },
+  {
+    "code": "603036",
+    "name": "如通股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603037",
+    "name": "凯众股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603038",
+    "name": "华立股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603039",
+    "name": "泛微网络",
+    "exchange": "sh"
+  },
+  {
+    "code": "603040",
+    "name": "新坐标",
+    "exchange": "sh"
+  },
+  {
+    "code": "603041",
+    "name": "美思德",
+    "exchange": "sh"
+  },
+  {
+    "code": "603050",
+    "name": "科林电气",
+    "exchange": "sh"
+  },
+  {
+    "code": "603058",
+    "name": "永吉股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603060",
+    "name": "国检集团",
+    "exchange": "sh"
+  },
+  {
+    "code": "603066",
+    "name": "音飞储存",
+    "exchange": "sh"
+  },
+  {
+    "code": "603067",
+    "name": "振华股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603069",
+    "name": "海汽集团",
+    "exchange": "sh"
+  },
+  {
+    "code": "603077",
+    "name": "和邦生物",
+    "exchange": "sh"
+  },
+  {
+    "code": "603078",
+    "name": "江化微",
+    "exchange": "sh"
+  },
+  {
+    "code": "603081",
+    "name": "大丰实业",
+    "exchange": "sh"
+  },
+  {
+    "code": "603085",
+    "name": "天成自控",
+    "exchange": "sh"
+  },
+  {
+    "code": "603086",
+    "name": "先达股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603088",
+    "name": "宁波精达",
+    "exchange": "sh"
+  },
+  {
+    "code": "603089",
+    "name": "正裕工业",
+    "exchange": "sh"
+  },
+  {
+    "code": "603090",
+    "name": "宏盛股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603096",
+    "name": "新经典",
+    "exchange": "sh"
+  },
+  {
+    "code": "603098",
+    "name": "森特股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603099",
+    "name": "长白山",
+    "exchange": "sh"
+  },
+  {
+    "code": "603100",
+    "name": "川仪股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603101",
+    "name": "汇嘉时代",
+    "exchange": "sh"
+  },
+  {
+    "code": "603108",
+    "name": "润达医疗",
+    "exchange": "sh"
+  },
+  {
+    "code": "603111",
+    "name": "康尼机电",
+    "exchange": "sh"
+  },
+  {
+    "code": "603113",
+    "name": "金能科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "603116",
+    "name": "红蜻蜓",
+    "exchange": "sh"
+  },
+  {
+    "code": "603117",
+    "name": "万林股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603118",
+    "name": "共进股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603123",
+    "name": "翠微股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603126",
+    "name": "中材节能",
+    "exchange": "sh"
+  },
+  {
+    "code": "603128",
+    "name": "华贸物流",
+    "exchange": "sh"
+  },
+  {
+    "code": "603131",
+    "name": "上海沪工",
+    "exchange": "sh"
+  },
+  {
+    "code": "603133",
+    "name": "碳元科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "603138",
+    "name": "海量数据",
+    "exchange": "sh"
+  },
+  {
+    "code": "603139",
+    "name": "康惠制药",
+    "exchange": "sh"
+  },
+  {
+    "code": "603158",
+    "name": "腾龙股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603159",
+    "name": "上海亚虹",
+    "exchange": "sh"
+  },
+  {
+    "code": "603160",
+    "name": "汇顶科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "603165",
+    "name": "荣晟环保",
+    "exchange": "sh"
+  },
+  {
+    "code": "603166",
+    "name": "福达股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603167",
+    "name": "渤海轮渡",
+    "exchange": "sh"
+  },
+  {
+    "code": "603168",
+    "name": "莎普爱思",
+    "exchange": "sh"
+  },
+  {
+    "code": "603169",
+    "name": "兰石重装",
+    "exchange": "sh"
+  },
+  {
+    "code": "603177",
+    "name": "德创环保",
+    "exchange": "sh"
+  },
+  {
+    "code": "603178",
+    "name": "圣龙股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603179",
+    "name": "新泉股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603180",
+    "name": "金牌厨柜",
+    "exchange": "sh"
+  },
+  {
+    "code": "603186",
+    "name": "华正新材",
+    "exchange": "sh"
+  },
+  {
+    "code": "603188",
+    "name": "亚邦股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603189",
+    "name": "网达软件",
+    "exchange": "sh"
+  },
+  {
+    "code": "603198",
+    "name": "迎驾贡酒",
+    "exchange": "sh"
+  },
+  {
+    "code": "603199",
+    "name": "九华旅游",
+    "exchange": "sh"
+  },
+  {
+    "code": "603203",
+    "name": "快克股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603208",
+    "name": "江山欧派",
+    "exchange": "sh"
+  },
+  {
+    "code": "603218",
+    "name": "日月股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603222",
+    "name": "济民制药",
+    "exchange": "sh"
+  },
+  {
+    "code": "603223",
+    "name": "恒通股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603225",
+    "name": "新凤鸣",
+    "exchange": "sh"
+  },
+  {
+    "code": "603227",
+    "name": "雪峰科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "603228",
+    "name": "景旺电子",
+    "exchange": "sh"
+  },
+  {
+    "code": "603229",
+    "name": "奥翔药业",
+    "exchange": "sh"
+  },
+  {
+    "code": "603232",
+    "name": "格尔软件",
+    "exchange": "sh"
+  },
+  {
+    "code": "603238",
+    "name": "诺邦股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603239",
+    "name": "浙江仙通",
+    "exchange": "sh"
+  },
+  {
+    "code": "603258",
+    "name": "电魂网络",
+    "exchange": "sh"
+  },
+  {
+    "code": "603266",
+    "name": "天龙股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603268",
+    "name": "松发股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603269",
+    "name": "海鸥股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603288",
+    "name": "海天味业",
+    "exchange": "sh"
+  },
+  {
+    "code": "603298",
+    "name": "杭叉集团",
+    "exchange": "sh"
+  },
+  {
+    "code": "603299",
+    "name": "井神股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603300",
+    "name": "华铁科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "603303",
+    "name": "得邦照明",
+    "exchange": "sh"
+  },
+  {
+    "code": "603306",
+    "name": "华懋科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "603308",
+    "name": "应流股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603309",
+    "name": "维力医疗",
+    "exchange": "sh"
+  },
+  {
+    "code": "603311",
+    "name": "金海环境",
+    "exchange": "sh"
+  },
+  {
+    "code": "603313",
+    "name": "梦百合",
+    "exchange": "sh"
+  },
+  {
+    "code": "603315",
+    "name": "福鞍股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603318",
+    "name": "派思股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603319",
+    "name": "湘油泵",
+    "exchange": "sh"
+  },
+  {
+    "code": "603320",
+    "name": "迪贝电气",
+    "exchange": "sh"
+  },
+  {
+    "code": "603322",
+    "name": "超讯通信",
+    "exchange": "sh"
+  },
+  {
+    "code": "603323",
+    "name": "吴江银行",
+    "exchange": "sh"
+  },
+  {
+    "code": "603328",
+    "name": "依顿电子",
+    "exchange": "sh"
+  },
+  {
+    "code": "603330",
+    "name": "上海天洋",
+    "exchange": "sh"
+  },
+  {
+    "code": "603333",
+    "name": "明星电缆",
+    "exchange": "sh"
+  },
+  {
+    "code": "603336",
+    "name": "宏辉果蔬",
+    "exchange": "sh"
+  },
+  {
+    "code": "603337",
+    "name": "杰克股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603338",
+    "name": "浙江鼎力",
+    "exchange": "sh"
+  },
+  {
+    "code": "603339",
+    "name": "四方冷链",
+    "exchange": "sh"
+  },
+  {
+    "code": "603345",
+    "name": "安井食品",
+    "exchange": "sh"
+  },
+  {
+    "code": "603355",
+    "name": "莱克电气",
+    "exchange": "sh"
+  },
+  {
+    "code": "603358",
+    "name": "华达科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "603360",
+    "name": "百傲化学",
+    "exchange": "sh"
+  },
+  {
+    "code": "603366",
+    "name": "日出东方",
+    "exchange": "sh"
+  },
+  {
+    "code": "603368",
+    "name": "柳州医药",
+    "exchange": "sh"
+  },
+  {
+    "code": "603369",
+    "name": "今世缘",
+    "exchange": "sh"
+  },
+  {
+    "code": "603377",
+    "name": "东方时尚",
+    "exchange": "sh"
+  },
+  {
+    "code": "603385",
+    "name": "惠达卫浴",
+    "exchange": "sh"
+  },
+  {
+    "code": "603388",
+    "name": "元成股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603389",
+    "name": "亚振家居",
+    "exchange": "sh"
+  },
+  {
+    "code": "603393",
+    "name": "新天然气",
+    "exchange": "sh"
+  },
+  {
+    "code": "603398",
+    "name": "邦宝益智",
+    "exchange": "sh"
+  },
+  {
+    "code": "603399",
+    "name": "新华龙",
+    "exchange": "sh"
+  },
+  {
+    "code": "603416",
+    "name": "信捷电气",
+    "exchange": "sh"
+  },
+  {
+    "code": "603421",
+    "name": "鼎信通讯",
+    "exchange": "sh"
+  },
+  {
+    "code": "603429",
+    "name": "集友股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603444",
+    "name": "吉比特",
+    "exchange": "sh"
+  },
+  {
+    "code": "603456",
+    "name": "九洲药业",
+    "exchange": "sh"
+  },
+  {
+    "code": "603488",
+    "name": "展鹏科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "603501",
+    "name": "韦尔股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603505",
+    "name": "金石资源",
+    "exchange": "sh"
+  },
+  {
+    "code": "603508",
+    "name": "思维列控",
+    "exchange": "sh"
+  },
+  {
+    "code": "603515",
+    "name": "欧普照明",
+    "exchange": "sh"
+  },
+  {
+    "code": "603517",
+    "name": "绝味食品",
+    "exchange": "sh"
+  },
+  {
+    "code": "603518",
+    "name": "维格娜丝",
+    "exchange": "sh"
+  },
+  {
+    "code": "603519",
+    "name": "立霸股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603520",
+    "name": "司太立",
+    "exchange": "sh"
+  },
+  {
+    "code": "603528",
+    "name": "多伦科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "603538",
+    "name": "美诺华",
+    "exchange": "sh"
+  },
+  {
+    "code": "603555",
+    "name": "贵人鸟",
+    "exchange": "sh"
+  },
+  {
+    "code": "603556",
+    "name": "海兴电力",
+    "exchange": "sh"
+  },
+  {
+    "code": "603558",
+    "name": "健盛集团",
+    "exchange": "sh"
+  },
+  {
+    "code": "603559",
+    "name": "中通国脉",
+    "exchange": "sh"
+  },
+  {
+    "code": "603566",
+    "name": "普莱柯",
+    "exchange": "sh"
+  },
+  {
+    "code": "603567",
+    "name": "珍宝岛",
+    "exchange": "sh"
+  },
+  {
+    "code": "603568",
+    "name": "伟明环保",
+    "exchange": "sh"
+  },
+  {
+    "code": "603569",
+    "name": "长久物流",
+    "exchange": "sh"
+  },
+  {
+    "code": "603577",
+    "name": "汇金通",
+    "exchange": "sh"
+  },
+  {
+    "code": "603578",
+    "name": "三星新材",
+    "exchange": "sh"
+  },
+  {
+    "code": "603579",
+    "name": "荣泰健康",
+    "exchange": "sh"
+  },
+  {
+    "code": "603585",
+    "name": "苏利股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603586",
+    "name": "金麒麟",
+    "exchange": "sh"
+  },
+  {
+    "code": "603588",
+    "name": "高能环境",
+    "exchange": "sh"
+  },
+  {
+    "code": "603589",
+    "name": "口子窖",
+    "exchange": "sh"
+  },
+  {
+    "code": "603598",
+    "name": "引力传媒",
+    "exchange": "sh"
+  },
+  {
+    "code": "603599",
+    "name": "广信股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603600",
+    "name": "永艺股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603601",
+    "name": "再升科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "603603",
+    "name": "博天环境",
+    "exchange": "sh"
+  },
+  {
+    "code": "603606",
+    "name": "东方电缆",
+    "exchange": "sh"
+  },
+  {
+    "code": "603608",
+    "name": "天创时尚",
+    "exchange": "sh"
+  },
+  {
+    "code": "603609",
+    "name": "禾丰牧业",
+    "exchange": "sh"
+  },
+  {
+    "code": "603611",
+    "name": "诺力股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603615",
+    "name": "茶花股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603616",
+    "name": "韩建河山",
+    "exchange": "sh"
+  },
+  {
+    "code": "603618",
+    "name": "杭电股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603626",
+    "name": "科森科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "603628",
+    "name": "清源股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603630",
+    "name": "拉芳家化",
+    "exchange": "sh"
+  },
+  {
+    "code": "603633",
+    "name": "徕木股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603636",
+    "name": "南威软件",
+    "exchange": "sh"
+  },
+  {
+    "code": "603637",
+    "name": "镇海股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603638",
+    "name": "艾迪精密",
+    "exchange": "sh"
+  },
+  {
+    "code": "603639",
+    "name": "海利尔",
+    "exchange": "sh"
+  },
+  {
+    "code": "603656",
+    "name": "泰禾光电",
+    "exchange": "sh"
+  },
+  {
+    "code": "603658",
+    "name": "安图生物",
+    "exchange": "sh"
+  },
+  {
+    "code": "603660",
+    "name": "苏州科达",
+    "exchange": "sh"
+  },
+  {
+    "code": "603663",
+    "name": "三祥新材",
+    "exchange": "sh"
+  },
+  {
+    "code": "603665",
+    "name": "康隆达",
+    "exchange": "sh"
+  },
+  {
+    "code": "603667",
+    "name": "五洲新春",
+    "exchange": "sh"
+  },
+  {
+    "code": "603668",
+    "name": "天马科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "603669",
+    "name": "灵康药业",
+    "exchange": "sh"
+  },
+  {
+    "code": "603677",
+    "name": "奇精机械",
+    "exchange": "sh"
+  },
+  {
+    "code": "603678",
+    "name": "火炬电子",
+    "exchange": "sh"
+  },
+  {
+    "code": "603686",
+    "name": "龙马环卫",
+    "exchange": "sh"
+  },
+  {
+    "code": "603688",
+    "name": "石英股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603689",
+    "name": "皖天然气",
+    "exchange": "sh"
+  },
+  {
+    "code": "603690",
+    "name": "至纯科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "603696",
+    "name": "安记食品",
+    "exchange": "sh"
+  },
+  {
+    "code": "603698",
+    "name": "航天工程",
+    "exchange": "sh"
+  },
+  {
+    "code": "603699",
+    "name": "纽威股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603701",
+    "name": "德宏股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603703",
+    "name": "盛洋科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "603708",
+    "name": "家家悦",
+    "exchange": "sh"
+  },
+  {
+    "code": "603716",
+    "name": "塞力斯",
+    "exchange": "sh"
+  },
+  {
+    "code": "603717",
+    "name": "天域生态",
+    "exchange": "sh"
+  },
+  {
+    "code": "603718",
+    "name": "海利生物",
+    "exchange": "sh"
+  },
+  {
+    "code": "603726",
+    "name": "朗迪集团",
+    "exchange": "sh"
+  },
+  {
+    "code": "603727",
+    "name": "博迈科",
+    "exchange": "sh"
+  },
+  {
+    "code": "603728",
+    "name": "鸣志电器",
+    "exchange": "sh"
+  },
+  {
+    "code": "603729",
+    "name": "龙韵股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603737",
+    "name": "三棵树",
+    "exchange": "sh"
+  },
+  {
+    "code": "603738",
+    "name": "泰晶科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "603758",
+    "name": "秦安股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603766",
+    "name": "隆鑫通用",
+    "exchange": "sh"
+  },
+  {
+    "code": "603768",
+    "name": "常青股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603776",
+    "name": "永安行",
+    "exchange": "sh"
+  },
+  {
+    "code": "603777",
+    "name": "来伊份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603778",
+    "name": "乾景园林",
+    "exchange": "sh"
+  },
+  {
+    "code": "603779",
+    "name": "威龙股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603787",
+    "name": "新日股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603788",
+    "name": "宁波高发",
+    "exchange": "sh"
+  },
+  {
+    "code": "603789",
+    "name": "星光农机",
+    "exchange": "sh"
+  },
+  {
+    "code": "603797",
+    "name": "联泰环保",
+    "exchange": "sh"
+  },
+  {
+    "code": "603798",
+    "name": "康普顿",
+    "exchange": "sh"
+  },
+  {
+    "code": "603799",
+    "name": "华友钴业",
+    "exchange": "sh"
+  },
+  {
+    "code": "603800",
+    "name": "道森股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603803",
+    "name": "瑞斯康达",
+    "exchange": "sh"
+  },
+  {
+    "code": "603806",
+    "name": "福斯特",
+    "exchange": "sh"
+  },
+  {
+    "code": "603808",
+    "name": "歌力思",
+    "exchange": "sh"
+  },
+  {
+    "code": "603811",
+    "name": "诚意药业",
+    "exchange": "sh"
+  },
+  {
+    "code": "603816",
+    "name": "顾家家居",
+    "exchange": "sh"
+  },
+  {
+    "code": "603817",
+    "name": "海峡环保",
+    "exchange": "sh"
+  },
+  {
+    "code": "603818",
+    "name": "曲美家居",
+    "exchange": "sh"
+  },
+  {
+    "code": "603819",
+    "name": "神力股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603822",
+    "name": "嘉澳环保",
+    "exchange": "sh"
+  },
+  {
+    "code": "603823",
+    "name": "百合花",
+    "exchange": "sh"
+  },
+  {
+    "code": "603826",
+    "name": "坤彩科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "603828",
+    "name": "柯利达",
+    "exchange": "sh"
+  },
+  {
+    "code": "603833",
+    "name": "欧派家居",
+    "exchange": "sh"
+  },
+  {
+    "code": "603838",
+    "name": "四通股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603839",
+    "name": "安正时尚",
+    "exchange": "sh"
+  },
+  {
+    "code": "603843",
+    "name": "正平股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603858",
+    "name": "步长制药",
+    "exchange": "sh"
+  },
+  {
+    "code": "603859",
+    "name": "能科股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603861",
+    "name": "白云电器",
+    "exchange": "sh"
+  },
+  {
+    "code": "603866",
+    "name": "桃李面包",
+    "exchange": "sh"
+  },
+  {
+    "code": "603868",
+    "name": "飞科电器",
+    "exchange": "sh"
+  },
+  {
+    "code": "603869",
+    "name": "北部湾旅",
+    "exchange": "sh"
+  },
+  {
+    "code": "603877",
+    "name": "太平鸟",
+    "exchange": "sh"
+  },
+  {
+    "code": "603878",
+    "name": "武进不锈",
+    "exchange": "sh"
+  },
+  {
+    "code": "603881",
+    "name": "数据港",
+    "exchange": "sh"
+  },
+  {
+    "code": "603883",
+    "name": "老百姓",
+    "exchange": "sh"
+  },
+  {
+    "code": "603885",
+    "name": "吉祥航空",
+    "exchange": "sh"
+  },
+  {
+    "code": "603886",
+    "name": "元祖股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603887",
+    "name": "城地股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603888",
+    "name": "新华网",
+    "exchange": "sh"
+  },
+  {
+    "code": "603889",
+    "name": "新澳股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603896",
+    "name": "寿仙谷",
+    "exchange": "sh"
+  },
+  {
+    "code": "603898",
+    "name": "好莱客",
+    "exchange": "sh"
+  },
+  {
+    "code": "603899",
+    "name": "晨光文具",
+    "exchange": "sh"
+  },
+  {
+    "code": "603900",
+    "name": "通灵珠宝",
+    "exchange": "sh"
+  },
+  {
+    "code": "603901",
+    "name": "永创智能",
+    "exchange": "sh"
+  },
+  {
+    "code": "603903",
+    "name": "中持股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603906",
+    "name": "龙蟠科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "603908",
+    "name": "牧高笛",
+    "exchange": "sh"
+  },
+  {
+    "code": "603909",
+    "name": "合诚股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603918",
+    "name": "金桥信息",
+    "exchange": "sh"
+  },
+  {
+    "code": "603919",
+    "name": "金徽酒",
+    "exchange": "sh"
+  },
+  {
+    "code": "603920",
+    "name": "世运电路",
+    "exchange": "sh"
+  },
+  {
+    "code": "603926",
+    "name": "铁流股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603928",
+    "name": "兴业股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603929",
+    "name": "亚翔集成",
+    "exchange": "sh"
+  },
+  {
+    "code": "603936",
+    "name": "博敏电子",
+    "exchange": "sh"
+  },
+  {
+    "code": "603939",
+    "name": "益丰药房",
+    "exchange": "sh"
+  },
+  {
+    "code": "603955",
+    "name": "大千生态",
+    "exchange": "sh"
+  },
+  {
+    "code": "603958",
+    "name": "哈森股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603959",
+    "name": "百利科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "603960",
+    "name": "克来机电",
+    "exchange": "sh"
+  },
+  {
+    "code": "603966",
+    "name": "法兰泰克",
+    "exchange": "sh"
+  },
+  {
+    "code": "603968",
+    "name": "醋化股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603969",
+    "name": "银龙股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603977",
+    "name": "国泰集团",
+    "exchange": "sh"
+  },
+  {
+    "code": "603979",
+    "name": "金诚信",
+    "exchange": "sh"
+  },
+  {
+    "code": "603985",
+    "name": "恒润股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603986",
+    "name": "兆易创新",
+    "exchange": "sh"
+  },
+  {
+    "code": "603987",
+    "name": "康德莱",
+    "exchange": "sh"
+  },
+  {
+    "code": "603988",
+    "name": "中电电机",
+    "exchange": "sh"
+  },
+  {
+    "code": "603989",
+    "name": "艾华集团",
+    "exchange": "sh"
+  },
+  {
+    "code": "603990",
+    "name": "麦迪科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "603991",
+    "name": "至正股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603993",
+    "name": "洛阳钼业",
+    "exchange": "sh"
+  },
+  {
+    "code": "603996",
+    "name": "中新科技",
+    "exchange": "sh"
+  },
+  {
+    "code": "603997",
+    "name": "继峰股份",
+    "exchange": "sh"
+  },
+  {
+    "code": "603998",
+    "name": "方盛制药",
+    "exchange": "sh"
+  },
+  {
+    "code": "603999",
+    "name": "读者传媒",
+    "exchange": "sh"
+  },
+  {
+    "code": "900901",
+    "name": "云赛B股",
+    "exchange": "sh"
+  },
+  {
+    "code": "900902",
+    "name": "市北B股",
+    "exchange": "sh"
+  },
+  {
+    "code": "900903",
+    "name": "大众B股",
+    "exchange": "sh"
+  },
+  {
+    "code": "900904",
+    "name": "神奇B股",
+    "exchange": "sh"
+  },
+  {
+    "code": "900905",
+    "name": "老凤祥B",
+    "exchange": "sh"
+  },
+  {
+    "code": "900906",
+    "name": "中毅达B",
+    "exchange": "sh"
+  },
+  {
+    "code": "900907",
+    "name": "鹏起B股",
+    "exchange": "sh"
+  },
+  {
+    "code": "900908",
+    "name": "氯碱B股",
+    "exchange": "sh"
+  },
+  {
+    "code": "900909",
+    "name": "华谊B股",
+    "exchange": "sh"
+  },
+  {
+    "code": "900910",
+    "name": "海立B股",
+    "exchange": "sh"
+  },
+  {
+    "code": "900911",
+    "name": "金桥B股",
+    "exchange": "sh"
+  },
+  {
+    "code": "900912",
+    "name": "外高B股",
+    "exchange": "sh"
+  },
+  {
+    "code": "900913",
+    "name": "国新B股",
+    "exchange": "sh"
+  },
+  {
+    "code": "900914",
+    "name": "锦投B股",
+    "exchange": "sh"
+  },
+  {
+    "code": "900915",
+    "name": "中路B股",
+    "exchange": "sh"
+  },
+  {
+    "code": "900916",
+    "name": "凤凰B股",
+    "exchange": "sh"
+  },
+  {
+    "code": "900917",
+    "name": "海欣B股",
+    "exchange": "sh"
+  },
+  {
+    "code": "900918",
+    "name": "耀皮B股",
+    "exchange": "sh"
+  },
+  {
+    "code": "900919",
+    "name": "绿庭B股",
+    "exchange": "sh"
+  },
+  {
+    "code": "900920",
+    "name": "上柴B股",
+    "exchange": "sh"
+  },
+  {
+    "code": "900921",
+    "name": "丹科B股",
+    "exchange": "sh"
+  },
+  {
+    "code": "900922",
+    "name": "三毛B股",
+    "exchange": "sh"
+  },
+  {
+    "code": "900923",
+    "name": "百联B股",
+    "exchange": "sh"
+  },
+  {
+    "code": "900924",
+    "name": "上工B股",
+    "exchange": "sh"
+  },
+  {
+    "code": "900925",
+    "name": "机电B股",
+    "exchange": "sh"
+  },
+  {
+    "code": "900926",
+    "name": "宝信B",
+    "exchange": "sh"
+  },
+  {
+    "code": "900927",
+    "name": "物贸B股",
+    "exchange": "sh"
+  },
+  {
+    "code": "900928",
+    "name": "临港B股",
+    "exchange": "sh"
+  },
+  {
+    "code": "900929",
+    "name": "锦旅B股",
+    "exchange": "sh"
+  },
+  {
+    "code": "900930",
+    "name": "*ST沪普B",
+    "exchange": "sh"
+  },
+  {
+    "code": "900931",
+    "name": "PT水仙B",
+    "exchange": "sh"
+  },
+  {
+    "code": "900932",
+    "name": "陆家B股",
+    "exchange": "sh"
+  },
+  {
+    "code": "900933",
+    "name": "华新B股",
+    "exchange": "sh"
+  },
+  {
+    "code": "900934",
+    "name": "锦江B股",
+    "exchange": "sh"
+  },
+  {
+    "code": "900935",
+    "name": "阳晨B股",
+    "exchange": "sh"
+  },
+  {
+    "code": "900936",
+    "name": "鄂资B股",
+    "exchange": "sh"
+  },
+  {
+    "code": "900937",
+    "name": "华电B股",
+    "exchange": "sh"
+  },
+  {
+    "code": "900938",
+    "name": "天海B",
+    "exchange": "sh"
+  },
+  {
+    "code": "900939",
+    "name": "汇丽B",
+    "exchange": "sh"
+  },
+  {
+    "code": "900940",
+    "name": "大名城B",
+    "exchange": "sh"
+  },
+  {
+    "code": "900941",
+    "name": "东信B股",
+    "exchange": "sh"
+  },
+  {
+    "code": "900942",
+    "name": "黄山B股",
+    "exchange": "sh"
+  },
+  {
+    "code": "900943",
+    "name": "开开B股",
+    "exchange": "sh"
+  },
+  {
+    "code": "900945",
+    "name": "海航B股",
+    "exchange": "sh"
+  },
+  {
+    "code": "900946",
+    "name": "天雁B股",
+    "exchange": "sh"
+  },
+  {
+    "code": "900947",
+    "name": "振华B股",
+    "exchange": "sh"
+  },
+  {
+    "code": "900948",
+    "name": "伊泰B股",
+    "exchange": "sh"
+  },
+  {
+    "code": "900949",
+    "name": "东电B股",
+    "exchange": "sh"
+  },
+  {
+    "code": "900950",
+    "name": "新城B股",
+    "exchange": "sh"
+  },
+  {
+    "code": "900951",
+    "name": "*ST大化B",
+    "exchange": "sh"
+  },
+  {
+    "code": "900952",
+    "name": "锦港B股",
+    "exchange": "sh"
+  },
+  {
+    "code": "900953",
+    "name": "凯马B",
+    "exchange": "sh"
+  },
+  {
+    "code": "900955",
+    "name": "海创B股",
+    "exchange": "sh"
+  },
+  {
+    "code": "900956",
+    "name": "东贝B股",
+    "exchange": "sh"
+  },
+  {
+    "code": "900957",
+    "name": "凌云B股",
+    "exchange": "sh"
+  }
+]
