@@ -18,27 +18,20 @@ let getRemoteData = require('../public/getXQdata')
 
 /* GET users listing. */
 router.get('/', function (req, res, next) {
-
-    stock_data.base.find({
+    /**
+    trade_type.base.update({}, {
+        $set: {
+            "dataLastUpdateDate": new Date().toLocaleDateString()
+        }
+    }, {
+        multi: true
+    });
+ */
+    getRemoteData('1970-1-1', {
         symbol: 'sh600000'
     }).then((d) => {
-        console.log(d);
-        d.toArray((err, d) => {
-            console.log(d);
-            getRemoteData(d[0].data, {
-                symbol: 'sh600000'
-            }).then((stock) => {
-                console.log(stock)
-                stock_data.base.update({
-                    symbol: 'sh600000'
-                }, {
-                    $set: {
-                        "data": stock
-                    }
-                })
-            })
-        })
-    })
+        res.send(d);
+    }, err => console.log(err))
 
     /**
      * 初始化stock_data数据，设置指标

@@ -8,6 +8,8 @@ var bodyParser = require('body-parser');
 var index = require('./routes/index');
 var test = require('./routes/test');
 var ls = require('./routes/getLocalStockData');
+var urd = require('./routes/updateRemoteData');
+var stockList = require('./routes/stockList');
 
 var app = express();
 
@@ -26,6 +28,8 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use('/', index);
 app.use('/getLocalStockData', ls);
 app.use('/test', test);
+app.use('/updateRemoteData', urd);
+app.use('/stockList', stockList);
 
 // catch 404 and forward to error handler
 app.use(function (req, res, next) {

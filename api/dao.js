@@ -1,11 +1,3 @@
-/**
- * sesame-db
- * 
- * localStock
- * localFutures
- * board
- * 
- */
 
 var MongoClient = require('mongodb').MongoClient;
 var DB_CONN_STR = 'mongodb://localhost:27017/sesame-db'; // 数据库为 sesame-db
@@ -18,7 +10,7 @@ let CRUDFactory = table => {
     let crud = [],
         operation = table.__proto__;
     for (var i in operation) {
-        if (operation.hasOwnProperty(i)) { //filter,只输出man的私有属性
+        if (operation.hasOwnProperty(i)) { 
             crud.push(i);
         };
     }
@@ -26,7 +18,7 @@ let CRUDFactory = table => {
     crud.forEach(operation => {
         service[operation] = (...para) => {
             return new Promise((resolve, reject) => {
-                para.push((err, result) => {
+                let callback = (err, result) => {
                     if (err) {
                         console.error('Error:' + err);
                         reject(err);
@@ -34,8 +26,13 @@ let CRUDFactory = table => {
                         console.log(`${operation}成功`);
                         resolve(result);
                     }
-                })
-                table[operation].apply(table, para)
+                }
+                para.push(callback)
+                if (operation === 'find') {
+                    table.find(para.length > 1 ? para[0] : {}).toArray(callback);
+                } else {
+                    table[operation].apply(table, para)
+                }
             });
         }
     })
